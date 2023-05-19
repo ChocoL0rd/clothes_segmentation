@@ -1,0 +1,7 @@
+name: "u2net"
+device: ${device}
+
+load_pretrained: False
+
+out_ch: 1
+

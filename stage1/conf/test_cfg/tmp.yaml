@@ -1,0 +1,12 @@
+batch_size: 1
+
+save_path: ${hydra:runtime.output_dir}
+
+metrics: [
+  "soft_jaccard",
+  "soft_dice",
+  "inv_soft_jaccard",
+  "inv_soft_dice"
+]
+
+
