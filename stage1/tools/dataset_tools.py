@@ -268,17 +268,6 @@ class MultiImgMaskSet(Dataset):
 
 
 def cfg2datasets(cfg):
-    """
-    :param cfg: dataset_cfg from main config
-    consist of:
-        1) device - where to contain returned images
-        2) path - path to the file to read to get list of images for each dataset
-        and path to the folder where it contains.
-        3) filter - manipulations with datasets to get new
-        4) bgr_trfm, fgr_trfm, trfm, preproc
-
-    :return: dictionary: {dataset_name1: dataset1, ...}
-    """
     with open(cfg["path"], "r") as f:
         file_dict = json.load(f)
 
@@ -288,23 +277,33 @@ def cfg2datasets(cfg):
     bgr_trfm = cfg2trfm(cfg["bgr_trfm"])
     fgr_trfm = cfg2trfm(cfg["fgr_trfm"])
     trfm = cfg2trfm(cfg["trfm"])
-    preproc = cfg2trfm(cfg["preproc"])
-
+    val_trfm = cfg2trfm(cfg["val_trfm"])
+    test_trfm = cfg2trfm(cfg["test_trfm"])
+    
     # creating
     datasets = {}
+    
+    
     for dataset_name, dir_dict in file_dict["datasets"].items():
         if dataset_name == "test":
-            datasets[dataset_name] = MultiImgMaskSet(
+            datasets["test"] = MultiImgMaskSet(
                 log_name=dataset_name, root_path=root_path,
                 dir_dict=dir_dict, max_subset_size=-1,
-                bgr_trfm=A.Compose([]), fgr_trfm=A.Compose([]), trfm=A.Compose([]), preproc=preproc,
+                bgr_trfm=A.Compose([]), fgr_trfm=A.Compose([]), trfm=A.Compose([]), preproc=test_trfm,
+                device=torch.device(cfg["device"])
+            )
+            
+            datasets["validation"] = MultiImgMaskSet(
+                log_name=dataset_name, root_path=root_path,
+                dir_dict=dir_dict, max_subset_size=-1,
+                bgr_trfm=A.Compose([]), fgr_trfm=A.Compose([]), trfm=A.Compose([]), preproc=val_trfm,
                 device=torch.device(cfg["device"])
             )
         else:
             datasets[dataset_name] = MultiImgMaskSet(
                 log_name=dataset_name, root_path=root_path,
                 dir_dict=dir_dict, max_subset_size=cfg["max_subset_size"],
-                bgr_trfm=bgr_trfm, fgr_trfm=fgr_trfm, trfm=trfm, preproc=preproc,
+                bgr_trfm=bgr_trfm, fgr_trfm=fgr_trfm, trfm=trfm, preproc=A.Compose([]),
                 device=torch.device(cfg["device"])
             )
 

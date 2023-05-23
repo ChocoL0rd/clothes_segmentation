@@ -4,7 +4,7 @@ device: cuda
 path: ${hydra:runtime.cwd}/../datasets/datasets.json
 
 # how many photos to use from each dir in one epoch
-max_subset_size: 35
+max_subset_size: 30
 
 # augmentation (is not used during the test)
 # background transformation
@@ -62,7 +62,25 @@ trfm: [
 ]
 
 # preprocessing that applied after augmentations and keeps applied during the test
-preproc: [
+val_trfm: [
+    {
+      name: "random_resized_crop",
+      height: 384,
+      width: 384,
+      min_scale: 1,
+      max_scale: 1,
+      always_apply: True,
+      p: 1
+    },
+]
+
+
+test_trfm: [
 
 ]
+
+
+
+
+
 

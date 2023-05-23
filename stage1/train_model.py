@@ -37,7 +37,7 @@ def my_app(cfg):
     datasets = cfg2datasets(cfg["dataset_cfg"])
 
     # training model
-    cfg2fit(cfg["train_cfg"], model, datasets["train"], datasets["test"])
+    cfg2fit(cfg["train_cfg"], model, datasets["train"], datasets["validation"])
 
     # save model weights
     torch.save(model.state_dict(), os.path.join(save_path, "model.pt"))
