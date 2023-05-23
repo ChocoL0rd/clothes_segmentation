@@ -4,7 +4,7 @@ device: cuda
 path: ${hydra:runtime.cwd}/../datasets/datasets.json
 
 # how many photos to use from each dir in one epoch
-max_subset_size: 30
+max_subset_size: 1
 
 # augmentation (is not used during the test)
 # background transformation
