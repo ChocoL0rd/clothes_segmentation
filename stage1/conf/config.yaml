@@ -7,6 +7,6 @@ defaults:
   - model_cfg: mini_u2net
   - test_cfg: tmp
   - dataset_cfg: tmp
-  - train_cfg: exp1
+  - train_cfg: exp5
 
 
