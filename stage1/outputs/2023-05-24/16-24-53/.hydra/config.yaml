@@ -1,0 +1,149 @@
+comment: Attempt
+device: cuda:0
+model_cfg:
+  name: mini_u2net
+  device: cuda:0
+  load_pretrained: false
+  freeze_encoder:
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  freeze_decoder:
+  - false
+  - false
+  - false
+  - false
+  - false
+  freeze_side:
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  out_ch: 1
+test_cfg:
+  batch_size: 1
+  save_path: ${hydra:runtime.output_dir}
+  metrics:
+  - soft_jaccard
+  - soft_dice
+  - inv_soft_jaccard
+  - inv_soft_dice
+dataset_cfg:
+  device: cuda
+  path: ${hydra:runtime.cwd}/../datasets/datasets.json
+  max_subset_size: 30
+  bgr_trfm:
+  - name: custom_aug
+    p: 0.5
+  - name: rgb_shift
+    r_shift_limit: 255
+    g_shift_limit: 255
+    b_shift_limit: 255
+    always_apply: false
+    p: 0.5
+  fgr_trfm:
+  - name: rgb_shift
+    r_shift_limit: 50
+    g_shift_limit: 50
+    b_shift_limit: 50
+    always_apply: false
+    p: 0.5
+  trfm:
+  - name: vertical_flip
+    p: 0.5
+  - name: horizontal_flip
+    p: 0.5
+  - name: rotate
+    always_apply: false
+    p: 0.5
+  - name: random_resized_crop
+    height: 320
+    width: 320
+    min_scale: 0.6
+    max_scale: 1
+    always_apply: true
+    p: 1
+  val_trfm:
+  - name: random_resized_crop
+    height: 384
+    width: 384
+    min_scale: 1
+    max_scale: 1
+    always_apply: true
+    p: 1
+  test_trfm: []
+train_cfg:
+  epochs: 300
+  val_period: 4
+  train_batch_size: 6
+  val_batch_size: 8
+  save_path: ${hydra:runtime.output_dir}
+  loss:
+  - name: bce
+    weight: 0.1
+  - name: ln_dice
+    weight: 0.4
+  - name: sup_bce
+    weight: 0.1
+  - name: sup_ln_dice
+    weight: 0.4
+  metrics:
+  - soft_jaccard
+  - soft_dice
+  - inv_soft_jaccard
+  - inv_soft_dice
+  optimizer:
+    name: adam
+    lrs:
+    - 0.001
+    - 0.001
+    - 0.001
+    - 0.001
+    - 0.001
+    - 0.001
+    - 0.001
+    - 0.001
+    - 0.001
+    - 0.001
+    - 0.001
+    - 0.001
+    - 0.001
+    - 0.001
+    - 0.001
+    - 0.001
+    - 0.001
+    - 0.001
+    weight_decays:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  scheduler:
+    name: reduce_on_plateau
+    factor: 0.1
+    step_size: 5
+  early_stopper:
+    save_path: ${hydra:runtime.output_dir}
+    target_metric: soft_dice
+    statistic: mean
+    patience: 15
+    delta: 0
