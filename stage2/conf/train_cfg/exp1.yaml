@@ -9,7 +9,23 @@ save_path: ${hydra:runtime.output_dir}
 loss: [
   {
     name: bce,
-    weight: 1
+    weight: 0.8
+  },
+  {
+    name: ln_dice,
+    weight: 0.1
+  },
+  {
+    name: inv_ln_dice,
+    weight: 0.1 
+  },
+  {
+    name: jaccard_loss,
+    weight: 0.005
+  },
+  {
+    name: inv_jaccard_loss,
+    weight: 0.005
   }
 ]
 

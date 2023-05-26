@@ -86,6 +86,7 @@ name2func = {
     "sup_bce": sup_bce,
 
     "jaccard_loss": jaccard_loss,
+    "inv_jaccard_loss": inv_jaccard_loss,
     "sup_jaccard_loss": sup_jaccard_loss,
 
     "ln_dice": ln_dice,
