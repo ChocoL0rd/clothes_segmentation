@@ -1,0 +1,22 @@
+name: "resnet101_unet"
+device: cuda:0
+
+load_pretrained: False
+#pretrained_path: outputs/2023-05-01/01-12-43
+
+pretrained_backbone: True
+up_chnls: [512, 256, 128, 64, 32]
+freeze_encoder: [True, True, True, True, True]
+freeze_decoder: [False, False, False, False, False]
+
+
+
+
+
+
+
+
+
+
+
+

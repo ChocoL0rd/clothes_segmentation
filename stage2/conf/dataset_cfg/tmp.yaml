@@ -1,0 +1,95 @@
+device: cuda
+
+# path to a file that contains name of imgs for validation and train
+path: ${hydra:runtime.cwd}/../datasets/datasets.json
+
+# how many photos to use from each dir in one epoch
+max_subset_size: 30
+
+# augmentation (is not used during the test)
+# background transformation
+bgr_trfm: [
+    {
+        name: custom_aug,
+        p: 0.5
+    },
+    {
+        name: rgb_shift,
+        r_shift_limit: 255,
+        g_shift_limit: 255,
+        b_shift_limit: 255,
+        always_apply: False,
+        p: 0.5
+    },
+]
+
+# foreground transformation
+fgr_trfm: [
+    {
+    name: rgb_shift,
+    r_shift_limit: 50,
+    g_shift_limit: 50,
+    b_shift_limit: 50,
+    always_apply: False,
+    p: 0.5
+    },
+]
+
+# transformations applied to the whole image after two previous
+trfm: [
+    {
+    name: vertical_flip,
+    p: 0.5
+    },
+    {
+    name: horizontal_flip,
+    p: 0.5
+    },
+    {
+    name: rotate,
+    always_apply: False,
+    p: 0.5
+    },
+    {
+      name: "random_resized_crop",
+      height: 320,
+      width: 320,
+      min_scale: 0.6,
+      max_scale: 1,
+      always_apply: True,
+      p: 1
+    },
+]
+
+# preprocessing that applied after augmentations and keeps applied during the test
+val_trfm: [
+    {
+      name: "random_resized_crop",
+      height: 320,
+      width: 320,
+      min_scale: 1,
+      max_scale: 1,
+      always_apply: True,
+      p: 1
+    },
+    {
+      name: "normalize",
+      always_apply: True,
+      p: 1
+    }
+]
+
+
+test_trfm: [
+    {
+      name: "normalize",
+      always_apply: True,
+      p: 1
+    }
+]
+
+
+
+
+
+
