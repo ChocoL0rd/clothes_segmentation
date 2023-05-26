@@ -1,12 +1,12 @@
-comment: "Attempt"
+comment: "Learning rate is not reduced well, so continue"
 
 device: cuda:0
 
 defaults:
   - _self_
-  - model_cfg: mini_u2net
+  - model_cfg: pretrained_exp1
   - test_cfg: tmp
   - dataset_cfg: tmp
-  - train_cfg: exp5
+  - train_cfg: exp1_1
 
 
