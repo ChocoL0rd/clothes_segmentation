@@ -1,7 +1,7 @@
 epochs: 300
 val_period: 4
-train_batch_size: 20
-val_batch_size: 20
+train_batch_size: 16
+val_batch_size: 16
 
 save_path: ${hydra:runtime.output_dir}
 
