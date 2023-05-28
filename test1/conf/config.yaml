@@ -1,0 +1,12 @@
+comment: "Learning rate is not reduced well, so continue"
+
+device: cuda:0
+
+defaults:
+  - _self_
+  - model_cfg: exp1
+  - test_cfg: tmp
+  - dataset_cfg: tmp
+
+
+
