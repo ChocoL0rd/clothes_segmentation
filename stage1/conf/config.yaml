@@ -4,9 +4,9 @@ device: cuda:0
 
 defaults:
   - _self_
-  - model_cfg: pretrained_exp1
+  - model_cfg: pretrained_exp5
   - test_cfg: tmp
   - dataset_cfg: tmp
-  - train_cfg: exp1_1
+  - train_cfg: exp5_1
 
 
