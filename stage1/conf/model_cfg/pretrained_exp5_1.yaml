@@ -1,0 +1,13 @@
+name: "mini_u2net"
+device: cuda:0
+
+load_pretrained: True
+pretrained_path: outputs/2023-05-28/05-58-09
+
+freeze_encoder: [False, False, False, False, False, False]
+freeze_decoder: [False, False, False, False, False]
+freeze_side: [False, False, False, False, False, False]
+
+
+out_ch: 1
+
