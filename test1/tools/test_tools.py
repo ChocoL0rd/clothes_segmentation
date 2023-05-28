@@ -54,6 +54,7 @@ def cfg2test(cfg, model, dataset: MultiImgMaskSet):
             img_name_list = img_name_list + list(img_name)
             
             interpolated_predict = torch.nn.functional.interpolate(predicted, original_img.shape[-2:])
+            interpolated_mask = torch.nn.functional.interpolate(mask, original_img.shape[-2:])
             
             # illustrating result as a jpg
             masked = original_img * interpolated_predict
@@ -65,15 +66,14 @@ def cfg2test(cfg, model, dataset: MultiImgMaskSet):
                 masked_pil = tensor2pil(masked_tensor)
                 masked_pil.save(os.path.join(tmp_dir_path, img_name[i] + ".jpg"))
             
-            
-            interpolated_predict = torch.nn.functional.interpolate(predicted, original_mask.shape[-2:])
             # saving metric history
             for metric_name, metric in metrics.items():
-                metric_values = metrics[metric_name](interpolated_predict, original_mask.to("cuda")).cpu().reshape([-1]).tolist()
+                metric_values = metrics[metric_name](interpolated_predict, interpolated_mask).cpu().reshape([-1]).tolist()                
                 metric_history[metric_name] = metric_history[metric_name] + metric_values
             
    
     # saving all metric results for each img
+
     results = metric_history
     results["dir"] = dir_name_list
     results["img"] = img_name_list
