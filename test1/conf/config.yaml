@@ -4,7 +4,7 @@ device: cuda:0
 
 defaults:
   - _self_
-  - model_cfg: exp5_1
+  - model_cfg: exp5_2
   - test_cfg: tmp
   - dataset_cfg: tmp
 
