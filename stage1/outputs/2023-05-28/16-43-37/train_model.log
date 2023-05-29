@@ -1,0 +1,2996 @@
+[2023-05-28 16:43:37,929][tools.dataset_tools][INFO] - Created [train][kenguru_Футболки_майки_поло_топы___Топы] ImgMaskSet: 
+Size: 30 
+Real size: 119 
+Device: cuda 
+
+[2023-05-28 16:43:37,929][tools.dataset_tools][INFO] - Created [train][kenguru_Ремни] ImgMaskSet: 
+Size: 30 
+Real size: 38 
+Device: cuda 
+
+[2023-05-28 16:43:37,929][tools.dataset_tools][INFO] - Created [train][kenguru_Украшения___Подвески и кулоны] ImgMaskSet: 
+Size: 19 
+Real size: 19 
+Device: cuda 
+
+[2023-05-28 16:43:37,929][tools.dataset_tools][INFO] - Created [train][kenguru_Головные уборы___Панамы] ImgMaskSet: 
+Size: 30 
+Real size: 154 
+Device: cuda 
+
+[2023-05-28 16:43:37,929][tools.dataset_tools][INFO] - Created [train][kenguru_Юбки] ImgMaskSet: 
+Size: 30 
+Real size: 124 
+Device: cuda 
+
+[2023-05-28 16:43:37,929][tools.dataset_tools][INFO] - Created [train][kenguru_Джемперы_свитеры_кардиганы_кофты___Джемперы] ImgMaskSet: 
+Size: 30 
+Real size: 121 
+Device: cuda 
+
+[2023-05-28 16:43:37,929][tools.dataset_tools][INFO] - Created [train][kenguru_Платья_сарафаны] ImgMaskSet: 
+Size: 30 
+Real size: 831 
+Device: cuda 
+
+[2023-05-28 16:43:37,929][tools.dataset_tools][INFO] - Created [train][kenguru_Школьная одежда___Брюки] ImgMaskSet: 
+Size: 25 
+Real size: 25 
+Device: cuda 
+
+[2023-05-28 16:43:37,929][tools.dataset_tools][INFO] - Created [train][kenguru_Верхняя одежда___Пуховики] ImgMaskSet: 
+Size: 30 
+Real size: 131 
+Device: cuda 
+
+[2023-05-28 16:43:37,929][tools.dataset_tools][INFO] - Created [train][kenguru_Сумки_рюкзаки и чемоданы___Сумки через плечо] ImgMaskSet: 
+Size: 30 
+Real size: 89 
+Device: cuda 
+
+[2023-05-28 16:43:37,929][tools.dataset_tools][INFO] - Created [train][kenguru_Домашняя одежда и бельё___Колготки] ImgMaskSet: 
+Size: 30 
+Real size: 195 
+Device: cuda 
+
+[2023-05-28 16:43:37,929][tools.dataset_tools][INFO] - Created [train][kenguru_Верхняя одежда___Шубы] ImgMaskSet: 
+Size: 21 
+Real size: 21 
+Device: cuda 
+
+[2023-05-28 16:43:37,929][tools.dataset_tools][INFO] - Created [train][puma_Обувь___Бутсы] ImgMaskSet: 
+Size: 30 
+Real size: 99 
+Device: cuda 
+
+[2023-05-28 16:43:37,929][tools.dataset_tools][INFO] - Created [train][kenguru_Обувь] ImgMaskSet: 
+Size: 30 
+Real size: 52 
+Device: cuda 
+
+[2023-05-28 16:43:37,929][tools.dataset_tools][INFO] - Created [train][puma_Домашняя одежда и бельё___Носки] ImgMaskSet: 
+Size: 30 
+Real size: 247 
+Device: cuda 
+
+[2023-05-28 16:43:37,929][tools.dataset_tools][INFO] - Created [train][puma_Нижнее бельё] ImgMaskSet: 
+Size: 30 
+Real size: 195 
+Device: cuda 
+
+[2023-05-28 16:43:37,929][tools.dataset_tools][INFO] - Created [train][kenguru_Спортивная одежда___Костюмы] ImgMaskSet: 
+Size: 30 
+Real size: 75 
+Device: cuda 
+
+[2023-05-28 16:43:37,929][tools.dataset_tools][INFO] - Created [train][kenguru_Джемперы_свитеры_кардиганы_кофты___Кофты] ImgMaskSet: 
+Size: 30 
+Real size: 31 
+Device: cuda 
+
+[2023-05-28 16:43:37,929][tools.dataset_tools][INFO] - Created [train][kenguru_Обувь___Босоножки] ImgMaskSet: 
+Size: 30 
+Real size: 113 
+Device: cuda 
+
+[2023-05-28 16:43:37,929][tools.dataset_tools][INFO] - Created [train][kenguru_Футболки_майки_поло_топы___Поло] ImgMaskSet: 
+Size: 30 
+Real size: 41 
+Device: cuda 
+
+[2023-05-28 16:43:37,929][tools.dataset_tools][INFO] - Created [train][kenguru_Комбинезоны] ImgMaskSet: 
+Size: 30 
+Real size: 643 
+Device: cuda 
+
+[2023-05-28 16:43:37,929][tools.dataset_tools][INFO] - Created [train][puma_Толстовки_олимпийки_худи_лонгсливы] ImgMaskSet: 
+Size: 30 
+Real size: 77 
+Device: cuda 
+
+[2023-05-28 16:43:37,929][tools.dataset_tools][INFO] - Created [train][kenguru_Украшения] ImgMaskSet: 
+Size: 19 
+Real size: 19 
+Device: cuda 
+
+[2023-05-28 16:43:37,929][tools.dataset_tools][INFO] - Created [train][kenguru_Домашняя одежда и бельё] ImgMaskSet: 
+Size: 30 
+Real size: 102 
+Device: cuda 
+
+[2023-05-28 16:43:37,929][tools.dataset_tools][INFO] - Created [train][puma_Футболки_майки_поло_топы___Футболки] ImgMaskSet: 
+Size: 30 
+Real size: 1582 
+Device: cuda 
+
+[2023-05-28 16:43:37,930][tools.dataset_tools][INFO] - Created [train][kenguru_Костюмы_пиджаки___Пиджаки] ImgMaskSet: 
+Size: 30 
+Real size: 66 
+Device: cuda 
+
+[2023-05-28 16:43:37,930][tools.dataset_tools][INFO] - Created [train][kenguru_Украшения___Колье] ImgMaskSet: 
+Size: 27 
+Real size: 27 
+Device: cuda 
+
+[2023-05-28 16:43:37,930][tools.dataset_tools][INFO] - Created [train][puma_Перчатки и варежки] ImgMaskSet: 
+Size: 27 
+Real size: 27 
+Device: cuda 
+
+[2023-05-28 16:43:37,930][tools.dataset_tools][INFO] - Created [train][kenguru_Платки_шарфы_шали___Шарфы] ImgMaskSet: 
+Size: 30 
+Real size: 186 
+Device: cuda 
+
+[2023-05-28 16:43:37,930][tools.dataset_tools][INFO] - Created [train][kenguru_Головные уборы] ImgMaskSet: 
+Size: 30 
+Real size: 101 
+Device: cuda 
+
+[2023-05-28 16:43:37,930][tools.dataset_tools][INFO] - Created [train][puma_Обувь___Кроссовки] ImgMaskSet: 
+Size: 30 
+Real size: 1341 
+Device: cuda 
+
+[2023-05-28 16:43:37,930][tools.dataset_tools][INFO] - Created [train][puma_Футболки_майки_поло_топы___Топы] ImgMaskSet: 
+Size: 30 
+Real size: 126 
+Device: cuda 
+
+[2023-05-28 16:43:37,930][tools.dataset_tools][INFO] - Created [train][kenguru_Блузки_рубашки___Рубашки] ImgMaskSet: 
+Size: 30 
+Real size: 199 
+Device: cuda 
+
+[2023-05-28 16:43:37,930][tools.dataset_tools][INFO] - Created [train][puma_Шорты_бриджи___Шорты] ImgMaskSet: 
+Size: 30 
+Real size: 365 
+Device: cuda 
+
+[2023-05-28 16:43:37,930][tools.dataset_tools][INFO] - Created [train][puma_Спортивная одежда___Леггинсы] ImgMaskSet: 
+Size: 30 
+Real size: 170 
+Device: cuda 
+
+[2023-05-28 16:43:37,930][tools.dataset_tools][INFO] - Created [train][kenguru_Спортивная одежда___Спортивные куртки] ImgMaskSet: 
+Size: 30 
+Real size: 166 
+Device: cuda 
+
+[2023-05-28 16:43:37,930][tools.dataset_tools][INFO] - Created [train][kenguru_Толстовки_олимпийки_худи_лонгсливы] ImgMaskSet: 
+Size: 30 
+Real size: 245 
+Device: cuda 
+
+[2023-05-28 16:43:37,930][tools.dataset_tools][INFO] - Created [train][puma_Головные уборы___Кепки] ImgMaskSet: 
+Size: 30 
+Real size: 82 
+Device: cuda 
+
+[2023-05-28 16:43:37,930][tools.dataset_tools][INFO] - Created [train][kenguru_Головные уборы___Шапки] ImgMaskSet: 
+Size: 30 
+Real size: 1397 
+Device: cuda 
+
+[2023-05-28 16:43:37,930][tools.dataset_tools][INFO] - Created [train][puma_Другое] ImgMaskSet: 
+Size: 30 
+Real size: 46 
+Device: cuda 
+
+[2023-05-28 16:43:37,930][tools.dataset_tools][INFO] - Created [train][kenguru_Аксессуары___Галстуки_бабочки] ImgMaskSet: 
+Size: 19 
+Real size: 19 
+Device: cuda 
+
+[2023-05-28 16:43:37,930][tools.dataset_tools][INFO] - Created [train][kenguru_Джинсы] ImgMaskSet: 
+Size: 30 
+Real size: 184 
+Device: cuda 
+
+[2023-05-28 16:43:37,930][tools.dataset_tools][INFO] - Created [train][puma_Разное] ImgMaskSet: 
+Size: 30 
+Real size: 77 
+Device: cuda 
+
+[2023-05-28 16:43:37,930][tools.dataset_tools][INFO] - Created [train][kenguru_Джемперы_свитеры_кардиганы_кофты___Свитшоты] ImgMaskSet: 
+Size: 30 
+Real size: 54 
+Device: cuda 
+
+[2023-05-28 16:43:37,930][tools.dataset_tools][INFO] - Created [train][kenguru_Головные уборы___Бейсболки] ImgMaskSet: 
+Size: 30 
+Real size: 206 
+Device: cuda 
+
+[2023-05-28 16:43:37,930][tools.dataset_tools][INFO] - Created [train][kenguru_Верхняя одежда___Ветровки] ImgMaskSet: 
+Size: 30 
+Real size: 55 
+Device: cuda 
+
+[2023-05-28 16:43:37,930][tools.dataset_tools][INFO] - Created [train][puma_Джемперы_свитеры_кардиганы_кофты___Свитшоты] ImgMaskSet: 
+Size: 30 
+Real size: 54 
+Device: cuda 
+
+[2023-05-28 16:43:37,930][tools.dataset_tools][INFO] - Created [train][kenguru_Нижнее бельё] ImgMaskSet: 
+Size: 30 
+Real size: 47 
+Device: cuda 
+
+[2023-05-28 16:43:37,930][tools.dataset_tools][INFO] - Created [train][kenguru_Платья_сарафаны___Сарафаны] ImgMaskSet: 
+Size: 30 
+Real size: 55 
+Device: cuda 
+
+[2023-05-28 16:43:37,930][tools.dataset_tools][INFO] - Created [train][kenguru_Брюки___Классические] ImgMaskSet: 
+Size: 22 
+Real size: 22 
+Device: cuda 
+
+[2023-05-28 16:43:37,930][tools.dataset_tools][INFO] - Created [train][puma_Украшения___Комплекты] ImgMaskSet: 
+Size: 30 
+Real size: 37 
+Device: cuda 
+
+[2023-05-28 16:43:37,930][tools.dataset_tools][INFO] - Created [train][puma_Толстовки_олимпийки_худи_лонгсливы___Олимпийки] ImgMaskSet: 
+Size: 30 
+Real size: 147 
+Device: cuda 
+
+[2023-05-28 16:43:37,930][tools.dataset_tools][INFO] - Created [train][puma_Толстовки_олимпийки_худи_лонгсливы___Худи] ImgMaskSet: 
+Size: 19 
+Real size: 19 
+Device: cuda 
+
+[2023-05-28 16:43:37,930][tools.dataset_tools][INFO] - Created [train][puma_Головные уборы___Шапки] ImgMaskSet: 
+Size: 30 
+Real size: 167 
+Device: cuda 
+
+[2023-05-28 16:43:37,930][tools.dataset_tools][INFO] - Created [train][kenguru_Верхняя одежда___Жилеты (верхняя одежда)] ImgMaskSet: 
+Size: 30 
+Real size: 59 
+Device: cuda 
+
+[2023-05-28 16:43:37,930][tools.dataset_tools][INFO] - Created [train][kenguru_Спортивная одежда___Спортивные брюки] ImgMaskSet: 
+Size: 30 
+Real size: 456 
+Device: cuda 
+
+[2023-05-28 16:43:37,930][tools.dataset_tools][INFO] - Created [train][kenguru_Брюки___Леггинсы] ImgMaskSet: 
+Size: 30 
+Real size: 143 
+Device: cuda 
+
+[2023-05-28 16:43:37,930][tools.dataset_tools][INFO] - Created [train][puma_Верхняя одежда___Куртки] ImgMaskSet: 
+Size: 30 
+Real size: 133 
+Device: cuda 
+
+[2023-05-28 16:43:37,930][tools.dataset_tools][INFO] - Created [train][kenguru_Джемперы_свитеры_кардиганы_кофты___Кардиганы] ImgMaskSet: 
+Size: 30 
+Real size: 54 
+Device: cuda 
+
+[2023-05-28 16:43:37,930][tools.dataset_tools][INFO] - Created [train][puma_Толстовки_олимпийки_худи_лонгсливы___Лонгсливы] ImgMaskSet: 
+Size: 30 
+Real size: 47 
+Device: cuda 
+
+[2023-05-28 16:43:37,930][tools.dataset_tools][INFO] - Created [train][puma_Верхняя одежда___Ветровки] ImgMaskSet: 
+Size: 30 
+Real size: 41 
+Device: cuda 
+
+[2023-05-28 16:43:37,930][tools.dataset_tools][INFO] - Created [train][kenguru_Шорты_бриджи] ImgMaskSet: 
+Size: 19 
+Real size: 19 
+Device: cuda 
+
+[2023-05-28 16:43:37,930][tools.dataset_tools][INFO] - Created [train][kenguru_Блузки_рубашки___Блузки] ImgMaskSet: 
+Size: 30 
+Real size: 35 
+Device: cuda 
+
+[2023-05-28 16:43:37,930][tools.dataset_tools][INFO] - Created [train][kenguru_Верхняя одежда___Куртки] ImgMaskSet: 
+Size: 30 
+Real size: 265 
+Device: cuda 
+
+[2023-05-28 16:43:37,930][tools.dataset_tools][INFO] - Created [train][kenguru_Перчатки и варежки] ImgMaskSet: 
+Size: 30 
+Real size: 215 
+Device: cuda 
+
+[2023-05-28 16:43:37,931][tools.dataset_tools][INFO] - Created [train][kenguru_Другое] ImgMaskSet: 
+Size: 30 
+Real size: 56 
+Device: cuda 
+
+[2023-05-28 16:43:37,931][tools.dataset_tools][INFO] - Created [train][kenguru_Обувь___Сапоги] ImgMaskSet: 
+Size: 30 
+Real size: 108 
+Device: cuda 
+
+[2023-05-28 16:43:37,931][tools.dataset_tools][INFO] - Created [train][kenguru_Шорты_бриджи___Шорты] ImgMaskSet: 
+Size: 30 
+Real size: 248 
+Device: cuda 
+
+[2023-05-28 16:43:37,931][tools.dataset_tools][INFO] - Created [train][puma_Футболки_майки_поло_топы___Поло] ImgMaskSet: 
+Size: 30 
+Real size: 55 
+Device: cuda 
+
+[2023-05-28 16:43:37,931][tools.dataset_tools][INFO] - Created [train][kenguru_Верхняя одежда___Пальто] ImgMaskSet: 
+Size: 30 
+Real size: 42 
+Device: cuda 
+
+[2023-05-28 16:43:37,931][tools.dataset_tools][INFO] - Created [train][kenguru_Джемперы_свитеры_кардиганы_кофты___Водолазки] ImgMaskSet: 
+Size: 30 
+Real size: 110 
+Device: cuda 
+
+[2023-05-28 16:43:37,931][tools.dataset_tools][INFO] - Created [train][kenguru_Домашняя одежда и бельё___Носки] ImgMaskSet: 
+Size: 30 
+Real size: 768 
+Device: cuda 
+
+[2023-05-28 16:43:37,931][tools.dataset_tools][INFO] - Created [train][kenguru_Шорты_бриджи___Джинсовые шорты] ImgMaskSet: 
+Size: 30 
+Real size: 38 
+Device: cuda 
+
+[2023-05-28 16:43:37,931][tools.dataset_tools][INFO] - Created [train][kenguru_Обувь___Туфли] ImgMaskSet: 
+Size: 30 
+Real size: 88 
+Device: cuda 
+
+[2023-05-28 16:43:37,931][tools.dataset_tools][INFO] - Created [train][puma_Толстовки_олимпийки_худи_лонгсливы___Толстовки] ImgMaskSet: 
+Size: 30 
+Real size: 957 
+Device: cuda 
+
+[2023-05-28 16:43:37,931][tools.dataset_tools][INFO] - Created [train][kenguru_Сумки_рюкзаки и чемоданы___Рюкзаки] ImgMaskSet: 
+Size: 30 
+Real size: 58 
+Device: cuda 
+
+[2023-05-28 16:43:37,931][tools.dataset_tools][INFO] - Created [train][puma_Обувь___Кеды] ImgMaskSet: 
+Size: 30 
+Real size: 351 
+Device: cuda 
+
+[2023-05-28 16:43:37,931][tools.dataset_tools][INFO] - Created [train][kenguru_Обувь___Ботинки] ImgMaskSet: 
+Size: 30 
+Real size: 91 
+Device: cuda 
+
+[2023-05-28 16:43:37,931][tools.dataset_tools][INFO] - Created [train][puma_Футболки_майки_поло_топы___Майки] ImgMaskSet: 
+Size: 30 
+Real size: 53 
+Device: cuda 
+
+[2023-05-28 16:43:37,931][tools.dataset_tools][INFO] - Created [train][kenguru_Верхняя одежда___Джинсовые куртки] ImgMaskSet: 
+Size: 30 
+Real size: 47 
+Device: cuda 
+
+[2023-05-28 16:43:37,931][tools.dataset_tools][INFO] - Created [train][puma_Платья_сарафаны] ImgMaskSet: 
+Size: 30 
+Real size: 48 
+Device: cuda 
+
+[2023-05-28 16:43:37,931][tools.dataset_tools][INFO] - Created [train][kenguru_Футболки_майки_поло_топы___Футболки] ImgMaskSet: 
+Size: 30 
+Real size: 871 
+Device: cuda 
+
+[2023-05-28 16:43:37,931][tools.dataset_tools][INFO] - Created [train][puma_Пляжная одежда___Плавки] ImgMaskSet: 
+Size: 30 
+Real size: 67 
+Device: cuda 
+
+[2023-05-28 16:43:37,931][tools.dataset_tools][INFO] - Created [train][puma_Пляжная одежда] ImgMaskSet: 
+Size: 23 
+Real size: 23 
+Device: cuda 
+
+[2023-05-28 16:43:37,931][tools.dataset_tools][INFO] - Created [train][puma_Юбки] ImgMaskSet: 
+Size: 24 
+Real size: 24 
+Device: cuda 
+
+[2023-05-28 16:43:37,931][tools.dataset_tools][INFO] - Created [train][kenguru_Брюки___Спортивные брюки casual] ImgMaskSet: 
+Size: 30 
+Real size: 39 
+Device: cuda 
+
+[2023-05-28 16:43:37,931][tools.dataset_tools][INFO] - Created [train][kenguru_Обувь___Сандалии] ImgMaskSet: 
+Size: 30 
+Real size: 101 
+Device: cuda 
+
+[2023-05-28 16:43:37,931][tools.dataset_tools][INFO] - Created [train][kenguru_Брюки___Джоггеры] ImgMaskSet: 
+Size: 24 
+Real size: 24 
+Device: cuda 
+
+[2023-05-28 16:43:37,931][tools.dataset_tools][INFO] - Created [train][puma_Брюки] ImgMaskSet: 
+Size: 30 
+Real size: 705 
+Device: cuda 
+
+[2023-05-28 16:43:37,931][tools.dataset_tools][INFO] - Created [train][puma_Аксессуары] ImgMaskSet: 
+Size: 30 
+Real size: 44 
+Device: cuda 
+
+[2023-05-28 16:43:37,931][tools.dataset_tools][INFO] - Created [train][kenguru_Костюмы_пиджаки___Жилеты] ImgMaskSet: 
+Size: 30 
+Real size: 31 
+Device: cuda 
+
+[2023-05-28 16:43:37,931][tools.dataset_tools][INFO] - Created [train][puma_Спортивная одежда___Костюмы] ImgMaskSet: 
+Size: 30 
+Real size: 41 
+Device: cuda 
+
+[2023-05-28 16:43:37,931][tools.dataset_tools][INFO] - Created [train][kenguru_Украшения___Браслеты] ImgMaskSet: 
+Size: 30 
+Real size: 48 
+Device: cuda 
+
+[2023-05-28 16:43:37,931][tools.dataset_tools][INFO] - Created [train][puma_Сумки_рюкзаки и чемоданы___Рюкзаки] ImgMaskSet: 
+Size: 30 
+Real size: 169 
+Device: cuda 
+
+[2023-05-28 16:43:37,931][tools.dataset_tools][INFO] - Created [train][puma_Сумки_рюкзаки и чемоданы___Поясные сумки] ImgMaskSet: 
+Size: 21 
+Real size: 21 
+Device: cuda 
+
+[2023-05-28 16:43:37,931][tools.dataset_tools][INFO] - Created [train][kenguru_Джемперы_свитеры_кардиганы_кофты] ImgMaskSet: 
+Size: 30 
+Real size: 62 
+Device: cuda 
+
+[2023-05-28 16:43:37,932][tools.dataset_tools][INFO] - Created [train][kenguru_Школьная одежда___Рюкзаки_ранцы_сумки] ImgMaskSet: 
+Size: 30 
+Real size: 43 
+Device: cuda 
+
+[2023-05-28 16:43:37,932][tools.dataset_tools][INFO] - Created [train][kenguru_Аксессуары___Для волос] ImgMaskSet: 
+Size: 30 
+Real size: 664 
+Device: cuda 
+
+[2023-05-28 16:43:37,932][tools.dataset_tools][INFO] - Created [train][kenguru_Обувь___Кроссовки] ImgMaskSet: 
+Size: 30 
+Real size: 206 
+Device: cuda 
+
+[2023-05-28 16:43:37,932][tools.dataset_tools][INFO] - Created [train][kenguru_Джинсы___Клеш] ImgMaskSet: 
+Size: 19 
+Real size: 19 
+Device: cuda 
+
+[2023-05-28 16:43:37,932][tools.dataset_tools][INFO] - Created [train][puma_Сумки_рюкзаки и чемоданы] ImgMaskSet: 
+Size: 30 
+Real size: 155 
+Device: cuda 
+
+[2023-05-28 16:43:37,932][tools.dataset_tools][INFO] - Created [train][kenguru_Толстовки_олимпийки_худи_лонгсливы___Толстовки] ImgMaskSet: 
+Size: 30 
+Real size: 328 
+Device: cuda 
+
+[2023-05-28 16:43:37,932][tools.dataset_tools][INFO] - Created [train][puma_Спортивная одежда___Спортивные брюки] ImgMaskSet: 
+Size: 30 
+Real size: 30 
+Device: cuda 
+
+[2023-05-28 16:43:37,932][tools.dataset_tools][INFO] - Created [train][puma_Обувь___Шлепанцы] ImgMaskSet: 
+Size: 30 
+Real size: 62 
+Device: cuda 
+
+[2023-05-28 16:43:37,932][tools.dataset_tools][INFO] - Created [train][puma_Блузки_рубашки___Рубашки] ImgMaskSet: 
+Size: 30 
+Real size: 33 
+Device: cuda 
+
+[2023-05-28 16:43:37,932][tools.dataset_tools][INFO] - Created [train][kenguru_Футболки_майки_поло_топы___Майки] ImgMaskSet: 
+Size: 21 
+Real size: 21 
+Device: cuda 
+
+[2023-05-28 16:43:37,932][tools.dataset_tools][INFO] - Created [train][kenguru_Блузки_рубашки] ImgMaskSet: 
+Size: 24 
+Real size: 24 
+Device: cuda 
+
+[2023-05-28 16:43:37,932][tools.dataset_tools][INFO] - Created [train][kenguru_Обувь___Шлепанцы] ImgMaskSet: 
+Size: 18 
+Real size: 18 
+Device: cuda 
+
+[2023-05-28 16:43:37,932][tools.dataset_tools][INFO] - Created [train][kenguru_Обувь___Резиновые сапоги] ImgMaskSet: 
+Size: 24 
+Real size: 24 
+Device: cuda 
+
+[2023-05-28 16:43:37,932][tools.dataset_tools][INFO] - Created [train][kenguru_Брюки___Бермуды] ImgMaskSet: 
+Size: 30 
+Real size: 140 
+Device: cuda 
+
+[2023-05-28 16:43:37,932][tools.dataset_tools][INFO] - Created [train][kenguru_Брюки] ImgMaskSet: 
+Size: 30 
+Real size: 352 
+Device: cuda 
+
+[2023-05-28 16:43:37,932][tools.dataset_tools][INFO] - Created [train][kenguru_Обувь___Кеды] ImgMaskSet: 
+Size: 30 
+Real size: 209 
+Device: cuda 
+
+[2023-05-28 16:43:37,932][tools.dataset_tools][INFO] - Created [train][kenguru_Костюмы_пиджаки] ImgMaskSet: 
+Size: 30 
+Real size: 53 
+Device: cuda 
+
+[2023-05-28 16:43:37,932][tools.dataset_tools][INFO] - Created [train][kenguru_Очки] ImgMaskSet: 
+Size: 26 
+Real size: 26 
+Device: cuda 
+
+[2023-05-28 16:43:37,932][tools.dataset_tools][INFO] - Created [train][kenguru_Футболки_майки_поло_топы___Боди] ImgMaskSet: 
+Size: 30 
+Real size: 118 
+Device: cuda 
+
+[2023-05-28 16:43:37,932][tools.dataset_tools][INFO] - Created [train][kenguru_Школьная одежда___Блузы_рубашки] ImgMaskSet: 
+Size: 30 
+Real size: 40 
+Device: cuda 
+
+[2023-05-28 16:43:37,932][tools.dataset_tools][INFO] - Created train MultiImgMaskSet: 
+Size: 3321 
+Real size: 20250 
+Device: cuda 
+
+[2023-05-28 16:43:37,932][tools.dataset_tools][INFO] - Created [test][kenguru_Школьная одежда___Водолазки] ImgMaskSet: 
+Size: 8 
+Real size: 8 
+Device: cuda 
+
+[2023-05-28 16:43:37,932][tools.dataset_tools][INFO] - Created [test][kenguru_Школьная одежда___Платья_сарафаны] ImgMaskSet: 
+Size: 22 
+Real size: 22 
+Device: cuda 
+
+[2023-05-28 16:43:37,932][tools.dataset_tools][INFO] - Created [test][kenguru_Брюки___Бананы] ImgMaskSet: 
+Size: 2 
+Real size: 2 
+Device: cuda 
+
+[2023-05-28 16:43:37,932][tools.dataset_tools][INFO] - Created [test][kenguru_Спортивная одежда___Леггинсы] ImgMaskSet: 
+Size: 1 
+Real size: 1 
+Device: cuda 
+
+[2023-05-28 16:43:37,932][tools.dataset_tools][INFO] - Created [test][puma_Сумки_рюкзаки и чемоданы___Мягкая сумка дафл (duffle bag)] ImgMaskSet: 
+Size: 2 
+Real size: 2 
+Device: cuda 
+
+[2023-05-28 16:43:37,932][tools.dataset_tools][INFO] - Created [test][kenguru_Футболки_майки_поло_топы] ImgMaskSet: 
+Size: 11 
+Real size: 11 
+Device: cuda 
+
+[2023-05-28 16:43:37,932][tools.dataset_tools][INFO] - Created [test][kenguru_Костюмы_пиджаки___Костюмы] ImgMaskSet: 
+Size: 12 
+Real size: 12 
+Device: cuda 
+
+[2023-05-28 16:43:37,932][tools.dataset_tools][INFO] - Created [test][kenguru_Домашняя одежда и бельё___Пижамы] ImgMaskSet: 
+Size: 1 
+Real size: 1 
+Device: cuda 
+
+[2023-05-28 16:43:37,932][tools.dataset_tools][INFO] - Created [test][kenguru_Брюки___Кожаные] ImgMaskSet: 
+Size: 2 
+Real size: 2 
+Device: cuda 
+
+[2023-05-28 16:43:37,932][tools.dataset_tools][INFO] - Created [test][kenguru_Обувь___Мокасины] ImgMaskSet: 
+Size: 8 
+Real size: 8 
+Device: cuda 
+
+[2023-05-28 16:43:37,932][tools.dataset_tools][INFO] - Created [test][puma_Верхняя одежда___Жилеты (верхняя одежда)] ImgMaskSet: 
+Size: 11 
+Real size: 11 
+Device: cuda 
+
+[2023-05-28 16:43:37,933][tools.dataset_tools][INFO] - Created [test][puma_Верхняя одежда___Бомберы] ImgMaskSet: 
+Size: 18 
+Real size: 18 
+Device: cuda 
+
+[2023-05-28 16:43:37,933][tools.dataset_tools][INFO] - Created [test][puma_Шорты_бриджи] ImgMaskSet: 
+Size: 6 
+Real size: 6 
+Device: cuda 
+
+[2023-05-28 16:43:37,933][tools.dataset_tools][INFO] - Created [test][kenguru_Пляжная одежда] ImgMaskSet: 
+Size: 11 
+Real size: 11 
+Device: cuda 
+
+[2023-05-28 16:43:37,933][tools.dataset_tools][INFO] - Created [test][puma_Сумки_рюкзаки и чемоданы___Кроссбоди сумка] ImgMaskSet: 
+Size: 9 
+Real size: 9 
+Device: cuda 
+
+[2023-05-28 16:43:37,933][tools.dataset_tools][INFO] - Created [test][kenguru_Головные уборы___Кепки] ImgMaskSet: 
+Size: 13 
+Real size: 13 
+Device: cuda 
+
+[2023-05-28 16:43:37,933][tools.dataset_tools][INFO] - Created [test][puma_Верхняя одежда___Пальто] ImgMaskSet: 
+Size: 6 
+Real size: 6 
+Device: cuda 
+
+[2023-05-28 16:43:37,933][tools.dataset_tools][INFO] - Created [test][kenguru_Блузки_рубашки___Джинсовые рубашки] ImgMaskSet: 
+Size: 11 
+Real size: 11 
+Device: cuda 
+
+[2023-05-28 16:43:37,933][tools.dataset_tools][INFO] - Created [test][kenguru_Головные уборы___Береты] ImgMaskSet: 
+Size: 8 
+Real size: 8 
+Device: cuda 
+
+[2023-05-28 16:43:37,933][tools.dataset_tools][INFO] - Created [test][kenguru_Юбки___Ассиметричная] ImgMaskSet: 
+Size: 1 
+Real size: 1 
+Device: cuda 
+
+[2023-05-28 16:43:37,933][tools.dataset_tools][INFO] - Created [test][kenguru_Верхняя одежда___Дубленки] ImgMaskSet: 
+Size: 2 
+Real size: 2 
+Device: cuda 
+
+[2023-05-28 16:43:37,933][tools.dataset_tools][INFO] - Created [test][puma_Головные уборы] ImgMaskSet: 
+Size: 5 
+Real size: 5 
+Device: cuda 
+
+[2023-05-28 16:43:37,933][tools.dataset_tools][INFO] - Created [test][kenguru_Брюки___Прямые] ImgMaskSet: 
+Size: 10 
+Real size: 10 
+Device: cuda 
+
+[2023-05-28 16:43:37,933][tools.dataset_tools][INFO] - Created [test][kenguru_Юбки___Миди] ImgMaskSet: 
+Size: 2 
+Real size: 2 
+Device: cuda 
+
+[2023-05-28 16:43:37,933][tools.dataset_tools][INFO] - Created [test][kenguru_Разное] ImgMaskSet: 
+Size: 1 
+Real size: 1 
+Device: cuda 
+
+[2023-05-28 16:43:37,933][tools.dataset_tools][INFO] - Created [test][kenguru_Школьная одежда___Костюмы] ImgMaskSet: 
+Size: 5 
+Real size: 5 
+Device: cuda 
+
+[2023-05-28 16:43:37,933][tools.dataset_tools][INFO] - Created [test][kenguru_Платья_сарафаны___Туники] ImgMaskSet: 
+Size: 1 
+Real size: 1 
+Device: cuda 
+
+[2023-05-28 16:43:37,933][tools.dataset_tools][INFO] - Created [test][kenguru_Домашняя одежда и бельё___Гольфы] ImgMaskSet: 
+Size: 15 
+Real size: 15 
+Device: cuda 
+
+[2023-05-28 16:43:37,933][tools.dataset_tools][INFO] - Created [test][kenguru_Школьная одежда___Кофты_кардиганы_джемперы] ImgMaskSet: 
+Size: 10 
+Real size: 10 
+Device: cuda 
+
+[2023-05-28 16:43:37,933][tools.dataset_tools][INFO] - Created [test][kenguru_Платья_сарафаны___Мини] ImgMaskSet: 
+Size: 13 
+Real size: 13 
+Device: cuda 
+
+[2023-05-28 16:43:37,933][tools.dataset_tools][INFO] - Created [test][kenguru_Юбки___Пачка] ImgMaskSet: 
+Size: 2 
+Real size: 2 
+Device: cuda 
+
+[2023-05-28 16:43:37,933][tools.dataset_tools][INFO] - Created [test][kenguru_Юбки___Карандаш] ImgMaskSet: 
+Size: 5 
+Real size: 5 
+Device: cuda 
+
+[2023-05-28 16:43:37,933][tools.dataset_tools][INFO] - Created [test][puma_Головные уборы___Панамы] ImgMaskSet: 
+Size: 10 
+Real size: 10 
+Device: cuda 
+
+[2023-05-28 16:43:37,933][tools.dataset_tools][INFO] - Created [test][kenguru_Джинсы___Широкие] ImgMaskSet: 
+Size: 10 
+Real size: 10 
+Device: cuda 
+
+[2023-05-28 16:43:37,933][tools.dataset_tools][INFO] - Created [test][puma_Платки_шарфы_шали___Шарфы] ImgMaskSet: 
+Size: 5 
+Real size: 5 
+Device: cuda 
+
+[2023-05-28 16:43:37,933][tools.dataset_tools][INFO] - Created [test][kenguru_Спортивная одежда] ImgMaskSet: 
+Size: 2 
+Real size: 2 
+Device: cuda 
+
+[2023-05-28 16:43:37,933][tools.dataset_tools][INFO] - Created [test][puma_Обувь___Сандалии] ImgMaskSet: 
+Size: 1 
+Real size: 1 
+Device: cuda 
+
+[2023-05-28 16:43:37,933][tools.dataset_tools][INFO] - Created [test][puma_Кошельки] ImgMaskSet: 
+Size: 5 
+Real size: 5 
+Device: cuda 
+
+[2023-05-28 16:43:37,933][tools.dataset_tools][INFO] - Created [test][puma_Домашняя одежда и бельё___Гольфы] ImgMaskSet: 
+Size: 4 
+Real size: 4 
+Device: cuda 
+
+[2023-05-28 16:43:37,933][tools.dataset_tools][INFO] - Created [test][kenguru_Обувь___Лоферы] ImgMaskSet: 
+Size: 19 
+Real size: 19 
+Device: cuda 
+
+[2023-05-28 16:43:37,933][tools.dataset_tools][INFO] - Created [test][puma_Верхняя одежда___Парки] ImgMaskSet: 
+Size: 2 
+Real size: 2 
+Device: cuda 
+
+[2023-05-28 16:43:37,933][tools.dataset_tools][INFO] - Created [test][kenguru_Сумки_рюкзаки и чемоданы] ImgMaskSet: 
+Size: 1 
+Real size: 1 
+Device: cuda 
+
+[2023-05-28 16:43:37,933][tools.dataset_tools][INFO] - Created [test][puma_Джемперы_свитеры_кардиганы_кофты___Кардиганы] ImgMaskSet: 
+Size: 1 
+Real size: 1 
+Device: cuda 
+
+[2023-05-28 16:43:37,933][tools.dataset_tools][INFO] - Created [test][kenguru_Украшения___Комплекты] ImgMaskSet: 
+Size: 1 
+Real size: 1 
+Device: cuda 
+
+[2023-05-28 16:43:37,933][tools.dataset_tools][INFO] - Created [test][kenguru_Школьная одежда___Толстовки] ImgMaskSet: 
+Size: 8 
+Real size: 8 
+Device: cuda 
+
+[2023-05-28 16:43:37,933][tools.dataset_tools][INFO] - Created [test][kenguru_Верхняя одежда___Плащи] ImgMaskSet: 
+Size: 24 
+Real size: 24 
+Device: cuda 
+
+[2023-05-28 16:43:37,933][tools.dataset_tools][INFO] - Created [test][kenguru_Пляжная одежда___Раздельные купальники] ImgMaskSet: 
+Size: 4 
+Real size: 4 
+Device: cuda 
+
+[2023-05-28 16:43:37,933][tools.dataset_tools][INFO] - Created [test][kenguru_Джемперы_свитеры_кардиганы_кофты___Свитеры] ImgMaskSet: 
+Size: 20 
+Real size: 20 
+Device: cuda 
+
+[2023-05-28 16:43:37,933][tools.dataset_tools][INFO] - Created [test][kenguru_Платки_шарфы_шали___Платки] ImgMaskSet: 
+Size: 4 
+Real size: 4 
+Device: cuda 
+
+[2023-05-28 16:43:37,933][tools.dataset_tools][INFO] - Created [test][kenguru_Школьная одежда___Жилеты] ImgMaskSet: 
+Size: 8 
+Real size: 8 
+Device: cuda 
+
+[2023-05-28 16:43:37,933][tools.dataset_tools][INFO] - Created [test][kenguru_Школьная одежда___Пиджаки_жакеты] ImgMaskSet: 
+Size: 15 
+Real size: 15 
+Device: cuda 
+
+[2023-05-28 16:43:37,933][tools.dataset_tools][INFO] - Created [test][kenguru_Толстовки_олимпийки_худи_лонгсливы___Лонгсливы] ImgMaskSet: 
+Size: 2 
+Real size: 2 
+Device: cuda 
+
+[2023-05-28 16:43:37,933][tools.dataset_tools][INFO] - Created [test][kenguru_Школьная одежда___Юбки] ImgMaskSet: 
+Size: 19 
+Real size: 19 
+Device: cuda 
+
+[2023-05-28 16:43:37,933][tools.dataset_tools][INFO] - Created [test][kenguru_Украшения___Ожерелья] ImgMaskSet: 
+Size: 1 
+Real size: 1 
+Device: cuda 
+
+[2023-05-28 16:43:37,934][tools.dataset_tools][INFO] - Created [test][kenguru_Украшения___Серьги] ImgMaskSet: 
+Size: 19 
+Real size: 19 
+Device: cuda 
+
+[2023-05-28 16:43:37,934][tools.dataset_tools][INFO] - Created [test][puma_Комбинезоны] ImgMaskSet: 
+Size: 5 
+Real size: 5 
+Device: cuda 
+
+[2023-05-28 16:43:37,934][tools.dataset_tools][INFO] - Created [test][kenguru_Платья_сарафаны___Миди] ImgMaskSet: 
+Size: 4 
+Real size: 4 
+Device: cuda 
+
+[2023-05-28 16:43:37,934][tools.dataset_tools][INFO] - Created [test][kenguru_Обувь___Балетки] ImgMaskSet: 
+Size: 10 
+Real size: 10 
+Device: cuda 
+
+[2023-05-28 16:43:37,934][tools.dataset_tools][INFO] - Created [test][puma_Футболки_майки_поло_топы___Боди] ImgMaskSet: 
+Size: 5 
+Real size: 5 
+Device: cuda 
+
+[2023-05-28 16:43:37,934][tools.dataset_tools][INFO] - Created [test][kenguru_Толстовки_олимпийки_худи_лонгсливы___Худи] ImgMaskSet: 
+Size: 9 
+Real size: 9 
+Device: cuda 
+
+[2023-05-28 16:43:37,934][tools.dataset_tools][INFO] - Created [test][kenguru_Головные уборы___Шляпы] ImgMaskSet: 
+Size: 24 
+Real size: 24 
+Device: cuda 
+
+[2023-05-28 16:43:37,934][tools.dataset_tools][INFO] - Created [test][puma_Домашняя одежда и бельё___Халаты] ImgMaskSet: 
+Size: 1 
+Real size: 1 
+Device: cuda 
+
+[2023-05-28 16:43:37,934][tools.dataset_tools][INFO] - Created [test][kenguru_Джинсы___Прямые] ImgMaskSet: 
+Size: 10 
+Real size: 10 
+Device: cuda 
+
+[2023-05-28 16:43:37,934][tools.dataset_tools][INFO] - Created [test][kenguru_Юбки___Макси] ImgMaskSet: 
+Size: 1 
+Real size: 1 
+Device: cuda 
+
+[2023-05-28 16:43:37,934][tools.dataset_tools][INFO] - Created [test][puma_Костюмы_пиджаки___Жилеты] ImgMaskSet: 
+Size: 7 
+Real size: 7 
+Device: cuda 
+
+[2023-05-28 16:43:37,934][tools.dataset_tools][INFO] - Created [test][puma_Верхняя одежда] ImgMaskSet: 
+Size: 4 
+Real size: 4 
+Device: cuda 
+
+[2023-05-28 16:43:37,934][tools.dataset_tools][INFO] - Created [test][puma_Обувь___Слипоны] ImgMaskSet: 
+Size: 2 
+Real size: 2 
+Device: cuda 
+
+[2023-05-28 16:43:37,934][tools.dataset_tools][INFO] - Created [test][kenguru_Школьная одежда___Галстуки_бабочки] ImgMaskSet: 
+Size: 9 
+Real size: 9 
+Device: cuda 
+
+[2023-05-28 16:43:37,934][tools.dataset_tools][INFO] - Created [test][kenguru_Платья_сарафаны___Макси] ImgMaskSet: 
+Size: 6 
+Real size: 6 
+Device: cuda 
+
+[2023-05-28 16:43:37,934][tools.dataset_tools][INFO] - Created [test][kenguru_Юбки___Трапеция] ImgMaskSet: 
+Size: 1 
+Real size: 1 
+Device: cuda 
+
+[2023-05-28 16:43:37,934][tools.dataset_tools][INFO] - Created [test][puma_Аксессуары___Для волос] ImgMaskSet: 
+Size: 15 
+Real size: 15 
+Device: cuda 
+
+[2023-05-28 16:43:37,934][tools.dataset_tools][INFO] - Created [test][kenguru_Платья_сарафаны___Шелковые] ImgMaskSet: 
+Size: 17 
+Real size: 17 
+Device: cuda 
+
+[2023-05-28 16:43:37,934][tools.dataset_tools][INFO] - Created [test][kenguru_Юбки___Юбка-шорты] ImgMaskSet: 
+Size: 5 
+Real size: 5 
+Device: cuda 
+
+[2023-05-28 16:43:37,934][tools.dataset_tools][INFO] - Created [test][puma_Пляжная одежда___Раздельные купальники] ImgMaskSet: 
+Size: 12 
+Real size: 12 
+Device: cuda 
+
+[2023-05-28 16:43:37,934][tools.dataset_tools][INFO] - Created [test][kenguru_Пляжная одежда___Слитные купальники] ImgMaskSet: 
+Size: 17 
+Real size: 17 
+Device: cuda 
+
+[2023-05-28 16:43:37,934][tools.dataset_tools][INFO] - Created [test][kenguru_Школьная одежда___Фартуки] ImgMaskSet: 
+Size: 5 
+Real size: 5 
+Device: cuda 
+
+[2023-05-28 16:43:37,934][tools.dataset_tools][INFO] - Created [test][kenguru_Юбки___Плиссе] ImgMaskSet: 
+Size: 19 
+Real size: 19 
+Device: cuda 
+
+[2023-05-28 16:43:37,934][tools.dataset_tools][INFO] - Created [test][kenguru_Юбки___Тюльпан] ImgMaskSet: 
+Size: 1 
+Real size: 1 
+Device: cuda 
+
+[2023-05-28 16:43:37,934][tools.dataset_tools][INFO] - Created [test][kenguru_Брюки___Кюлоты] ImgMaskSet: 
+Size: 4 
+Real size: 4 
+Device: cuda 
+
+[2023-05-28 16:43:37,934][tools.dataset_tools][INFO] - Created [test][kenguru_Джинсы___Зауженные] ImgMaskSet: 
+Size: 13 
+Real size: 13 
+Device: cuda 
+
+[2023-05-28 16:43:37,934][tools.dataset_tools][INFO] - Created [test][puma_Джемперы_свитеры_кардиганы_кофты___Свитеры] ImgMaskSet: 
+Size: 1 
+Real size: 1 
+Device: cuda 
+
+[2023-05-28 16:43:37,934][tools.dataset_tools][INFO] - Created [test][puma_Сумки_рюкзаки и чемоданы___Тоут] ImgMaskSet: 
+Size: 3 
+Real size: 3 
+Device: cuda 
+
+[2023-05-28 16:43:37,934][tools.dataset_tools][INFO] - Created [test][kenguru_Брюки___Карго] ImgMaskSet: 
+Size: 19 
+Real size: 19 
+Device: cuda 
+
+[2023-05-28 16:43:37,934][tools.dataset_tools][INFO] - Created [test][puma_Юбки___Миди] ImgMaskSet: 
+Size: 2 
+Real size: 2 
+Device: cuda 
+
+[2023-05-28 16:43:37,934][tools.dataset_tools][INFO] - Created [test][kenguru_Юбки___Солнце] ImgMaskSet: 
+Size: 1 
+Real size: 1 
+Device: cuda 
+
+[2023-05-28 16:43:37,934][tools.dataset_tools][INFO] - Created [test][kenguru_Брюки___Клеш] ImgMaskSet: 
+Size: 9 
+Real size: 9 
+Device: cuda 
+
+[2023-05-28 16:43:37,934][tools.dataset_tools][INFO] - Created [test][kenguru_Школьная одежда___Шорты] ImgMaskSet: 
+Size: 3 
+Real size: 3 
+Device: cuda 
+
+[2023-05-28 16:43:37,934][tools.dataset_tools][INFO] - Created [test][puma_Обувь___Ботинки] ImgMaskSet: 
+Size: 22 
+Real size: 22 
+Device: cuda 
+
+[2023-05-28 16:43:37,934][tools.dataset_tools][INFO] - Created [test][kenguru_Обувь___Слипоны] ImgMaskSet: 
+Size: 2 
+Real size: 2 
+Device: cuda 
+
+[2023-05-28 16:43:37,934][tools.dataset_tools][INFO] - Created [test][puma_Футболки_майки_поло_топы] ImgMaskSet: 
+Size: 22 
+Real size: 22 
+Device: cuda 
+
+[2023-05-28 16:43:37,934][tools.dataset_tools][INFO] - Created [test][kenguru_Верхняя одежда___Парки] ImgMaskSet: 
+Size: 9 
+Real size: 9 
+Device: cuda 
+
+[2023-05-28 16:43:37,934][tools.dataset_tools][INFO] - Created [test][kenguru_Обувь___Эспадрильи] ImgMaskSet: 
+Size: 2 
+Real size: 2 
+Device: cuda 
+
+[2023-05-28 16:43:37,935][tools.dataset_tools][INFO] - Created [test][kenguru_Брюки___Укороченные] ImgMaskSet: 
+Size: 2 
+Real size: 2 
+Device: cuda 
+
+[2023-05-28 16:43:37,935][tools.dataset_tools][INFO] - Created [test][kenguru_Брюки___Широкие] ImgMaskSet: 
+Size: 7 
+Real size: 7 
+Device: cuda 
+
+[2023-05-28 16:43:37,935][tools.dataset_tools][INFO] - Created [test][puma_Сумки_рюкзаки и чемоданы___Мессенджер] ImgMaskSet: 
+Size: 2 
+Real size: 2 
+Device: cuda 
+
+[2023-05-28 16:43:37,935][tools.dataset_tools][INFO] - Created [test][kenguru_Футболки_майки_поло_топы___Топы] ImgMaskSet: 
+Size: 51 
+Real size: 51 
+Device: cuda 
+
+[2023-05-28 16:43:37,935][tools.dataset_tools][INFO] - Created [test][kenguru_Ремни] ImgMaskSet: 
+Size: 15 
+Real size: 15 
+Device: cuda 
+
+[2023-05-28 16:43:37,935][tools.dataset_tools][INFO] - Created [test][kenguru_Украшения___Подвески и кулоны] ImgMaskSet: 
+Size: 8 
+Real size: 8 
+Device: cuda 
+
+[2023-05-28 16:43:37,935][tools.dataset_tools][INFO] - Created [test][kenguru_Головные уборы___Панамы] ImgMaskSet: 
+Size: 65 
+Real size: 65 
+Device: cuda 
+
+[2023-05-28 16:43:37,935][tools.dataset_tools][INFO] - Created [test][kenguru_Юбки] ImgMaskSet: 
+Size: 53 
+Real size: 53 
+Device: cuda 
+
+[2023-05-28 16:43:37,935][tools.dataset_tools][INFO] - Created [test][kenguru_Джемперы_свитеры_кардиганы_кофты___Джемперы] ImgMaskSet: 
+Size: 51 
+Real size: 51 
+Device: cuda 
+
+[2023-05-28 16:43:37,935][tools.dataset_tools][INFO] - Created [test][kenguru_Платья_сарафаны] ImgMaskSet: 
+Size: 100 
+Real size: 100 
+Device: cuda 
+
+[2023-05-28 16:43:37,935][tools.dataset_tools][INFO] - Created [test][kenguru_Школьная одежда___Брюки] ImgMaskSet: 
+Size: 10 
+Real size: 10 
+Device: cuda 
+
+[2023-05-28 16:43:37,935][tools.dataset_tools][INFO] - Created [test][kenguru_Верхняя одежда___Пуховики] ImgMaskSet: 
+Size: 56 
+Real size: 56 
+Device: cuda 
+
+[2023-05-28 16:43:37,935][tools.dataset_tools][INFO] - Created [test][kenguru_Сумки_рюкзаки и чемоданы___Сумки через плечо] ImgMaskSet: 
+Size: 38 
+Real size: 38 
+Device: cuda 
+
+[2023-05-28 16:43:37,935][tools.dataset_tools][INFO] - Created [test][kenguru_Домашняя одежда и бельё___Колготки] ImgMaskSet: 
+Size: 83 
+Real size: 83 
+Device: cuda 
+
+[2023-05-28 16:43:37,935][tools.dataset_tools][INFO] - Created [test][kenguru_Верхняя одежда___Шубы] ImgMaskSet: 
+Size: 8 
+Real size: 8 
+Device: cuda 
+
+[2023-05-28 16:43:37,935][tools.dataset_tools][INFO] - Created [test][puma_Обувь___Бутсы] ImgMaskSet: 
+Size: 42 
+Real size: 42 
+Device: cuda 
+
+[2023-05-28 16:43:37,935][tools.dataset_tools][INFO] - Created [test][kenguru_Обувь] ImgMaskSet: 
+Size: 22 
+Real size: 22 
+Device: cuda 
+
+[2023-05-28 16:43:37,935][tools.dataset_tools][INFO] - Created [test][puma_Домашняя одежда и бельё___Носки] ImgMaskSet: 
+Size: 100 
+Real size: 100 
+Device: cuda 
+
+[2023-05-28 16:43:37,935][tools.dataset_tools][INFO] - Created [test][puma_Нижнее бельё] ImgMaskSet: 
+Size: 83 
+Real size: 83 
+Device: cuda 
+
+[2023-05-28 16:43:37,935][tools.dataset_tools][INFO] - Created [test][kenguru_Спортивная одежда___Костюмы] ImgMaskSet: 
+Size: 32 
+Real size: 32 
+Device: cuda 
+
+[2023-05-28 16:43:37,935][tools.dataset_tools][INFO] - Created [test][kenguru_Джемперы_свитеры_кардиганы_кофты___Кофты] ImgMaskSet: 
+Size: 12 
+Real size: 12 
+Device: cuda 
+
+[2023-05-28 16:43:37,935][tools.dataset_tools][INFO] - Created [test][kenguru_Обувь___Босоножки] ImgMaskSet: 
+Size: 48 
+Real size: 48 
+Device: cuda 
+
+[2023-05-28 16:43:37,935][tools.dataset_tools][INFO] - Created [test][kenguru_Футболки_майки_поло_топы___Поло] ImgMaskSet: 
+Size: 17 
+Real size: 17 
+Device: cuda 
+
+[2023-05-28 16:43:37,935][tools.dataset_tools][INFO] - Created [test][kenguru_Комбинезоны] ImgMaskSet: 
+Size: 100 
+Real size: 100 
+Device: cuda 
+
+[2023-05-28 16:43:37,935][tools.dataset_tools][INFO] - Created [test][puma_Толстовки_олимпийки_худи_лонгсливы] ImgMaskSet: 
+Size: 32 
+Real size: 32 
+Device: cuda 
+
+[2023-05-28 16:43:37,935][tools.dataset_tools][INFO] - Created [test][kenguru_Украшения] ImgMaskSet: 
+Size: 8 
+Real size: 8 
+Device: cuda 
+
+[2023-05-28 16:43:37,935][tools.dataset_tools][INFO] - Created [test][kenguru_Домашняя одежда и бельё] ImgMaskSet: 
+Size: 43 
+Real size: 43 
+Device: cuda 
+
+[2023-05-28 16:43:37,935][tools.dataset_tools][INFO] - Created [test][puma_Футболки_майки_поло_топы___Футболки] ImgMaskSet: 
+Size: 100 
+Real size: 100 
+Device: cuda 
+
+[2023-05-28 16:43:37,935][tools.dataset_tools][INFO] - Created [test][kenguru_Костюмы_пиджаки___Пиджаки] ImgMaskSet: 
+Size: 27 
+Real size: 27 
+Device: cuda 
+
+[2023-05-28 16:43:37,935][tools.dataset_tools][INFO] - Created [test][kenguru_Украшения___Колье] ImgMaskSet: 
+Size: 11 
+Real size: 11 
+Device: cuda 
+
+[2023-05-28 16:43:37,935][tools.dataset_tools][INFO] - Created [test][puma_Перчатки и варежки] ImgMaskSet: 
+Size: 11 
+Real size: 11 
+Device: cuda 
+
+[2023-05-28 16:43:37,935][tools.dataset_tools][INFO] - Created [test][kenguru_Платки_шарфы_шали___Шарфы] ImgMaskSet: 
+Size: 79 
+Real size: 79 
+Device: cuda 
+
+[2023-05-28 16:43:37,935][tools.dataset_tools][INFO] - Created [test][kenguru_Головные уборы] ImgMaskSet: 
+Size: 42 
+Real size: 42 
+Device: cuda 
+
+[2023-05-28 16:43:37,935][tools.dataset_tools][INFO] - Created [test][puma_Обувь___Кроссовки] ImgMaskSet: 
+Size: 100 
+Real size: 100 
+Device: cuda 
+
+[2023-05-28 16:43:37,935][tools.dataset_tools][INFO] - Created [test][puma_Футболки_майки_поло_топы___Топы] ImgMaskSet: 
+Size: 54 
+Real size: 54 
+Device: cuda 
+
+[2023-05-28 16:43:37,935][tools.dataset_tools][INFO] - Created [test][kenguru_Блузки_рубашки___Рубашки] ImgMaskSet: 
+Size: 85 
+Real size: 85 
+Device: cuda 
+
+[2023-05-28 16:43:37,935][tools.dataset_tools][INFO] - Created [test][puma_Шорты_бриджи___Шорты] ImgMaskSet: 
+Size: 100 
+Real size: 100 
+Device: cuda 
+
+[2023-05-28 16:43:37,935][tools.dataset_tools][INFO] - Created [test][puma_Спортивная одежда___Леггинсы] ImgMaskSet: 
+Size: 72 
+Real size: 72 
+Device: cuda 
+
+[2023-05-28 16:43:37,935][tools.dataset_tools][INFO] - Created [test][kenguru_Спортивная одежда___Спортивные куртки] ImgMaskSet: 
+Size: 70 
+Real size: 70 
+Device: cuda 
+
+[2023-05-28 16:43:37,935][tools.dataset_tools][INFO] - Created [test][kenguru_Толстовки_олимпийки_худи_лонгсливы] ImgMaskSet: 
+Size: 100 
+Real size: 100 
+Device: cuda 
+
+[2023-05-28 16:43:37,935][tools.dataset_tools][INFO] - Created [test][puma_Головные уборы___Кепки] ImgMaskSet: 
+Size: 34 
+Real size: 34 
+Device: cuda 
+
+[2023-05-28 16:43:37,935][tools.dataset_tools][INFO] - Created [test][kenguru_Головные уборы___Шапки] ImgMaskSet: 
+Size: 100 
+Real size: 100 
+Device: cuda 
+
+[2023-05-28 16:43:37,936][tools.dataset_tools][INFO] - Created [test][puma_Другое] ImgMaskSet: 
+Size: 19 
+Real size: 19 
+Device: cuda 
+
+[2023-05-28 16:43:37,936][tools.dataset_tools][INFO] - Created [test][kenguru_Аксессуары___Галстуки_бабочки] ImgMaskSet: 
+Size: 8 
+Real size: 8 
+Device: cuda 
+
+[2023-05-28 16:43:37,936][tools.dataset_tools][INFO] - Created [test][kenguru_Джинсы] ImgMaskSet: 
+Size: 78 
+Real size: 78 
+Device: cuda 
+
+[2023-05-28 16:43:37,936][tools.dataset_tools][INFO] - Created [test][puma_Разное] ImgMaskSet: 
+Size: 32 
+Real size: 32 
+Device: cuda 
+
+[2023-05-28 16:43:37,936][tools.dataset_tools][INFO] - Created [test][kenguru_Джемперы_свитеры_кардиганы_кофты___Свитшоты] ImgMaskSet: 
+Size: 22 
+Real size: 22 
+Device: cuda 
+
+[2023-05-28 16:43:37,936][tools.dataset_tools][INFO] - Created [test][kenguru_Головные уборы___Бейсболки] ImgMaskSet: 
+Size: 87 
+Real size: 87 
+Device: cuda 
+
+[2023-05-28 16:43:37,936][tools.dataset_tools][INFO] - Created [test][kenguru_Верхняя одежда___Ветровки] ImgMaskSet: 
+Size: 23 
+Real size: 23 
+Device: cuda 
+
+[2023-05-28 16:43:37,936][tools.dataset_tools][INFO] - Created [test][puma_Джемперы_свитеры_кардиганы_кофты___Свитшоты] ImgMaskSet: 
+Size: 23 
+Real size: 23 
+Device: cuda 
+
+[2023-05-28 16:43:37,936][tools.dataset_tools][INFO] - Created [test][kenguru_Нижнее бельё] ImgMaskSet: 
+Size: 20 
+Real size: 20 
+Device: cuda 
+
+[2023-05-28 16:43:37,936][tools.dataset_tools][INFO] - Created [test][kenguru_Платья_сарафаны___Сарафаны] ImgMaskSet: 
+Size: 23 
+Real size: 23 
+Device: cuda 
+
+[2023-05-28 16:43:37,936][tools.dataset_tools][INFO] - Created [test][kenguru_Брюки___Классические] ImgMaskSet: 
+Size: 9 
+Real size: 9 
+Device: cuda 
+
+[2023-05-28 16:43:37,936][tools.dataset_tools][INFO] - Created [test][puma_Украшения___Комплекты] ImgMaskSet: 
+Size: 15 
+Real size: 15 
+Device: cuda 
+
+[2023-05-28 16:43:37,936][tools.dataset_tools][INFO] - Created [test][puma_Толстовки_олимпийки_худи_лонгсливы___Олимпийки] ImgMaskSet: 
+Size: 62 
+Real size: 62 
+Device: cuda 
+
+[2023-05-28 16:43:37,936][tools.dataset_tools][INFO] - Created [test][puma_Толстовки_олимпийки_худи_лонгсливы___Худи] ImgMaskSet: 
+Size: 8 
+Real size: 8 
+Device: cuda 
+
+[2023-05-28 16:43:37,936][tools.dataset_tools][INFO] - Created [test][puma_Головные уборы___Шапки] ImgMaskSet: 
+Size: 71 
+Real size: 71 
+Device: cuda 
+
+[2023-05-28 16:43:37,936][tools.dataset_tools][INFO] - Created [test][kenguru_Верхняя одежда___Жилеты (верхняя одежда)] ImgMaskSet: 
+Size: 25 
+Real size: 25 
+Device: cuda 
+
+[2023-05-28 16:43:37,936][tools.dataset_tools][INFO] - Created [test][kenguru_Спортивная одежда___Спортивные брюки] ImgMaskSet: 
+Size: 100 
+Real size: 100 
+Device: cuda 
+
+[2023-05-28 16:43:37,936][tools.dataset_tools][INFO] - Created [test][kenguru_Брюки___Леггинсы] ImgMaskSet: 
+Size: 61 
+Real size: 61 
+Device: cuda 
+
+[2023-05-28 16:43:37,936][tools.dataset_tools][INFO] - Created [test][puma_Верхняя одежда___Куртки] ImgMaskSet: 
+Size: 57 
+Real size: 57 
+Device: cuda 
+
+[2023-05-28 16:43:37,936][tools.dataset_tools][INFO] - Created [test][kenguru_Джемперы_свитеры_кардиганы_кофты___Кардиганы] ImgMaskSet: 
+Size: 23 
+Real size: 23 
+Device: cuda 
+
+[2023-05-28 16:43:37,936][tools.dataset_tools][INFO] - Created [test][puma_Толстовки_олимпийки_худи_лонгсливы___Лонгсливы] ImgMaskSet: 
+Size: 20 
+Real size: 20 
+Device: cuda 
+
+[2023-05-28 16:43:37,936][tools.dataset_tools][INFO] - Created [test][puma_Верхняя одежда___Ветровки] ImgMaskSet: 
+Size: 17 
+Real size: 17 
+Device: cuda 
+
+[2023-05-28 16:43:37,936][tools.dataset_tools][INFO] - Created [test][kenguru_Шорты_бриджи] ImgMaskSet: 
+Size: 7 
+Real size: 7 
+Device: cuda 
+
+[2023-05-28 16:43:37,936][tools.dataset_tools][INFO] - Created [test][kenguru_Блузки_рубашки___Блузки] ImgMaskSet: 
+Size: 14 
+Real size: 14 
+Device: cuda 
+
+[2023-05-28 16:43:37,936][tools.dataset_tools][INFO] - Created [test][kenguru_Верхняя одежда___Куртки] ImgMaskSet: 
+Size: 100 
+Real size: 100 
+Device: cuda 
+
+[2023-05-28 16:43:37,936][tools.dataset_tools][INFO] - Created [test][kenguru_Перчатки и варежки] ImgMaskSet: 
+Size: 92 
+Real size: 92 
+Device: cuda 
+
+[2023-05-28 16:43:37,936][tools.dataset_tools][INFO] - Created [test][kenguru_Другое] ImgMaskSet: 
+Size: 24 
+Real size: 24 
+Device: cuda 
+
+[2023-05-28 16:43:37,936][tools.dataset_tools][INFO] - Created [test][kenguru_Обувь___Сапоги] ImgMaskSet: 
+Size: 46 
+Real size: 46 
+Device: cuda 
+
+[2023-05-28 16:43:37,936][tools.dataset_tools][INFO] - Created [test][kenguru_Шорты_бриджи___Шорты] ImgMaskSet: 
+Size: 100 
+Real size: 100 
+Device: cuda 
+
+[2023-05-28 16:43:37,936][tools.dataset_tools][INFO] - Created [test][puma_Футболки_майки_поло_топы___Поло] ImgMaskSet: 
+Size: 23 
+Real size: 23 
+Device: cuda 
+
+[2023-05-28 16:43:37,936][tools.dataset_tools][INFO] - Created [test][kenguru_Верхняя одежда___Пальто] ImgMaskSet: 
+Size: 18 
+Real size: 18 
+Device: cuda 
+
+[2023-05-28 16:43:37,936][tools.dataset_tools][INFO] - Created [test][kenguru_Джемперы_свитеры_кардиганы_кофты___Водолазки] ImgMaskSet: 
+Size: 46 
+Real size: 46 
+Device: cuda 
+
+[2023-05-28 16:43:37,936][tools.dataset_tools][INFO] - Created [test][kenguru_Домашняя одежда и бельё___Носки] ImgMaskSet: 
+Size: 100 
+Real size: 100 
+Device: cuda 
+
+[2023-05-28 16:43:37,936][tools.dataset_tools][INFO] - Created [test][kenguru_Шорты_бриджи___Джинсовые шорты] ImgMaskSet: 
+Size: 15 
+Real size: 15 
+Device: cuda 
+
+[2023-05-28 16:43:37,936][tools.dataset_tools][INFO] - Created [test][kenguru_Обувь___Туфли] ImgMaskSet: 
+Size: 37 
+Real size: 37 
+Device: cuda 
+
+[2023-05-28 16:43:37,936][tools.dataset_tools][INFO] - Created [test][puma_Толстовки_олимпийки_худи_лонгсливы___Толстовки] ImgMaskSet: 
+Size: 100 
+Real size: 100 
+Device: cuda 
+
+[2023-05-28 16:43:37,936][tools.dataset_tools][INFO] - Created [test][kenguru_Сумки_рюкзаки и чемоданы___Рюкзаки] ImgMaskSet: 
+Size: 24 
+Real size: 24 
+Device: cuda 
+
+[2023-05-28 16:43:37,936][tools.dataset_tools][INFO] - Created [test][puma_Обувь___Кеды] ImgMaskSet: 
+Size: 100 
+Real size: 100 
+Device: cuda 
+
+[2023-05-28 16:43:37,936][tools.dataset_tools][INFO] - Created [test][kenguru_Обувь___Ботинки] ImgMaskSet: 
+Size: 38 
+Real size: 38 
+Device: cuda 
+
+[2023-05-28 16:43:37,936][tools.dataset_tools][INFO] - Created [test][puma_Футболки_майки_поло_топы___Майки] ImgMaskSet: 
+Size: 22 
+Real size: 22 
+Device: cuda 
+
+[2023-05-28 16:43:37,936][tools.dataset_tools][INFO] - Created [test][kenguru_Верхняя одежда___Джинсовые куртки] ImgMaskSet: 
+Size: 20 
+Real size: 20 
+Device: cuda 
+
+[2023-05-28 16:43:37,936][tools.dataset_tools][INFO] - Created [test][puma_Платья_сарафаны] ImgMaskSet: 
+Size: 20 
+Real size: 20 
+Device: cuda 
+
+[2023-05-28 16:43:37,937][tools.dataset_tools][INFO] - Created [test][kenguru_Футболки_майки_поло_топы___Футболки] ImgMaskSet: 
+Size: 100 
+Real size: 100 
+Device: cuda 
+
+[2023-05-28 16:43:37,937][tools.dataset_tools][INFO] - Created [test][puma_Пляжная одежда___Плавки] ImgMaskSet: 
+Size: 28 
+Real size: 28 
+Device: cuda 
+
+[2023-05-28 16:43:37,937][tools.dataset_tools][INFO] - Created [test][puma_Пляжная одежда] ImgMaskSet: 
+Size: 9 
+Real size: 9 
+Device: cuda 
+
+[2023-05-28 16:43:37,937][tools.dataset_tools][INFO] - Created [test][puma_Юбки] ImgMaskSet: 
+Size: 9 
+Real size: 9 
+Device: cuda 
+
+[2023-05-28 16:43:37,937][tools.dataset_tools][INFO] - Created [test][kenguru_Брюки___Спортивные брюки casual] ImgMaskSet: 
+Size: 16 
+Real size: 16 
+Device: cuda 
+
+[2023-05-28 16:43:37,937][tools.dataset_tools][INFO] - Created [test][kenguru_Обувь___Сандалии] ImgMaskSet: 
+Size: 43 
+Real size: 43 
+Device: cuda 
+
+[2023-05-28 16:43:37,937][tools.dataset_tools][INFO] - Created [test][kenguru_Брюки___Джоггеры] ImgMaskSet: 
+Size: 9 
+Real size: 9 
+Device: cuda 
+
+[2023-05-28 16:43:37,937][tools.dataset_tools][INFO] - Created [test][puma_Брюки] ImgMaskSet: 
+Size: 100 
+Real size: 100 
+Device: cuda 
+
+[2023-05-28 16:43:37,937][tools.dataset_tools][INFO] - Created [test][puma_Аксессуары] ImgMaskSet: 
+Size: 18 
+Real size: 18 
+Device: cuda 
+
+[2023-05-28 16:43:37,937][tools.dataset_tools][INFO] - Created [test][kenguru_Костюмы_пиджаки___Жилеты] ImgMaskSet: 
+Size: 13 
+Real size: 13 
+Device: cuda 
+
+[2023-05-28 16:43:37,937][tools.dataset_tools][INFO] - Created [test][puma_Спортивная одежда___Костюмы] ImgMaskSet: 
+Size: 17 
+Real size: 17 
+Device: cuda 
+
+[2023-05-28 16:43:37,937][tools.dataset_tools][INFO] - Created [test][kenguru_Украшения___Браслеты] ImgMaskSet: 
+Size: 20 
+Real size: 20 
+Device: cuda 
+
+[2023-05-28 16:43:37,937][tools.dataset_tools][INFO] - Created [test][puma_Сумки_рюкзаки и чемоданы___Рюкзаки] ImgMaskSet: 
+Size: 72 
+Real size: 72 
+Device: cuda 
+
+[2023-05-28 16:43:37,937][tools.dataset_tools][INFO] - Created [test][puma_Сумки_рюкзаки и чемоданы___Поясные сумки] ImgMaskSet: 
+Size: 9 
+Real size: 9 
+Device: cuda 
+
+[2023-05-28 16:43:37,937][tools.dataset_tools][INFO] - Created [test][kenguru_Джемперы_свитеры_кардиганы_кофты] ImgMaskSet: 
+Size: 26 
+Real size: 26 
+Device: cuda 
+
+[2023-05-28 16:43:37,937][tools.dataset_tools][INFO] - Created [test][kenguru_Школьная одежда___Рюкзаки_ранцы_сумки] ImgMaskSet: 
+Size: 18 
+Real size: 18 
+Device: cuda 
+
+[2023-05-28 16:43:37,937][tools.dataset_tools][INFO] - Created [test][kenguru_Аксессуары___Для волос] ImgMaskSet: 
+Size: 100 
+Real size: 100 
+Device: cuda 
+
+[2023-05-28 16:43:37,937][tools.dataset_tools][INFO] - Created [test][kenguru_Обувь___Кроссовки] ImgMaskSet: 
+Size: 88 
+Real size: 88 
+Device: cuda 
+
+[2023-05-28 16:43:37,937][tools.dataset_tools][INFO] - Created [test][kenguru_Джинсы___Клеш] ImgMaskSet: 
+Size: 7 
+Real size: 7 
+Device: cuda 
+
+[2023-05-28 16:43:37,937][tools.dataset_tools][INFO] - Created [test][puma_Сумки_рюкзаки и чемоданы] ImgMaskSet: 
+Size: 66 
+Real size: 66 
+Device: cuda 
+
+[2023-05-28 16:43:37,937][tools.dataset_tools][INFO] - Created [test][kenguru_Толстовки_олимпийки_худи_лонгсливы___Толстовки] ImgMaskSet: 
+Size: 100 
+Real size: 100 
+Device: cuda 
+
+[2023-05-28 16:43:37,937][tools.dataset_tools][INFO] - Created [test][puma_Спортивная одежда___Спортивные брюки] ImgMaskSet: 
+Size: 12 
+Real size: 12 
+Device: cuda 
+
+[2023-05-28 16:43:37,937][tools.dataset_tools][INFO] - Created [test][puma_Обувь___Шлепанцы] ImgMaskSet: 
+Size: 26 
+Real size: 26 
+Device: cuda 
+
+[2023-05-28 16:43:37,937][tools.dataset_tools][INFO] - Created [test][puma_Блузки_рубашки___Рубашки] ImgMaskSet: 
+Size: 13 
+Real size: 13 
+Device: cuda 
+
+[2023-05-28 16:43:37,937][tools.dataset_tools][INFO] - Created [test][kenguru_Футболки_майки_поло_топы___Майки] ImgMaskSet: 
+Size: 9 
+Real size: 9 
+Device: cuda 
+
+[2023-05-28 16:43:37,937][tools.dataset_tools][INFO] - Created [test][kenguru_Блузки_рубашки] ImgMaskSet: 
+Size: 10 
+Real size: 10 
+Device: cuda 
+
+[2023-05-28 16:43:37,937][tools.dataset_tools][INFO] - Created [test][kenguru_Обувь___Шлепанцы] ImgMaskSet: 
+Size: 7 
+Real size: 7 
+Device: cuda 
+
+[2023-05-28 16:43:37,937][tools.dataset_tools][INFO] - Created [test][kenguru_Обувь___Резиновые сапоги] ImgMaskSet: 
+Size: 9 
+Real size: 9 
+Device: cuda 
+
+[2023-05-28 16:43:37,937][tools.dataset_tools][INFO] - Created [test][kenguru_Брюки___Бермуды] ImgMaskSet: 
+Size: 59 
+Real size: 59 
+Device: cuda 
+
+[2023-05-28 16:43:37,937][tools.dataset_tools][INFO] - Created [test][kenguru_Брюки] ImgMaskSet: 
+Size: 100 
+Real size: 100 
+Device: cuda 
+
+[2023-05-28 16:43:37,937][tools.dataset_tools][INFO] - Created [test][kenguru_Обувь___Кеды] ImgMaskSet: 
+Size: 89 
+Real size: 89 
+Device: cuda 
+
+[2023-05-28 16:43:37,937][tools.dataset_tools][INFO] - Created [test][kenguru_Костюмы_пиджаки] ImgMaskSet: 
+Size: 22 
+Real size: 22 
+Device: cuda 
+
+[2023-05-28 16:43:37,937][tools.dataset_tools][INFO] - Created [test][kenguru_Очки] ImgMaskSet: 
+Size: 10 
+Real size: 10 
+Device: cuda 
+
+[2023-05-28 16:43:37,937][tools.dataset_tools][INFO] - Created [test][kenguru_Футболки_майки_поло_топы___Боди] ImgMaskSet: 
+Size: 50 
+Real size: 50 
+Device: cuda 
+
+[2023-05-28 16:43:37,937][tools.dataset_tools][INFO] - Created [test][kenguru_Школьная одежда___Блузы_рубашки] ImgMaskSet: 
+Size: 17 
+Real size: 17 
+Device: cuda 
+
+[2023-05-28 16:43:37,937][tools.dataset_tools][INFO] - Created test MultiImgMaskSet: 
+Size: 5843 
+Real size: 5843 
+Device: cuda 
+
+[2023-05-28 16:43:37,938][tools.dataset_tools][INFO] - Created [test][kenguru_Школьная одежда___Водолазки] ImgMaskSet: 
+Size: 8 
+Real size: 8 
+Device: cuda 
+
+[2023-05-28 16:43:37,938][tools.dataset_tools][INFO] - Created [test][kenguru_Школьная одежда___Платья_сарафаны] ImgMaskSet: 
+Size: 22 
+Real size: 22 
+Device: cuda 
+
+[2023-05-28 16:43:37,938][tools.dataset_tools][INFO] - Created [test][kenguru_Брюки___Бананы] ImgMaskSet: 
+Size: 2 
+Real size: 2 
+Device: cuda 
+
+[2023-05-28 16:43:37,938][tools.dataset_tools][INFO] - Created [test][kenguru_Спортивная одежда___Леггинсы] ImgMaskSet: 
+Size: 1 
+Real size: 1 
+Device: cuda 
+
+[2023-05-28 16:43:37,938][tools.dataset_tools][INFO] - Created [test][puma_Сумки_рюкзаки и чемоданы___Мягкая сумка дафл (duffle bag)] ImgMaskSet: 
+Size: 2 
+Real size: 2 
+Device: cuda 
+
+[2023-05-28 16:43:37,938][tools.dataset_tools][INFO] - Created [test][kenguru_Футболки_майки_поло_топы] ImgMaskSet: 
+Size: 11 
+Real size: 11 
+Device: cuda 
+
+[2023-05-28 16:43:37,938][tools.dataset_tools][INFO] - Created [test][kenguru_Костюмы_пиджаки___Костюмы] ImgMaskSet: 
+Size: 12 
+Real size: 12 
+Device: cuda 
+
+[2023-05-28 16:43:37,938][tools.dataset_tools][INFO] - Created [test][kenguru_Домашняя одежда и бельё___Пижамы] ImgMaskSet: 
+Size: 1 
+Real size: 1 
+Device: cuda 
+
+[2023-05-28 16:43:37,938][tools.dataset_tools][INFO] - Created [test][kenguru_Брюки___Кожаные] ImgMaskSet: 
+Size: 2 
+Real size: 2 
+Device: cuda 
+
+[2023-05-28 16:43:37,938][tools.dataset_tools][INFO] - Created [test][kenguru_Обувь___Мокасины] ImgMaskSet: 
+Size: 8 
+Real size: 8 
+Device: cuda 
+
+[2023-05-28 16:43:37,938][tools.dataset_tools][INFO] - Created [test][puma_Верхняя одежда___Жилеты (верхняя одежда)] ImgMaskSet: 
+Size: 11 
+Real size: 11 
+Device: cuda 
+
+[2023-05-28 16:43:37,938][tools.dataset_tools][INFO] - Created [test][puma_Верхняя одежда___Бомберы] ImgMaskSet: 
+Size: 18 
+Real size: 18 
+Device: cuda 
+
+[2023-05-28 16:43:37,938][tools.dataset_tools][INFO] - Created [test][puma_Шорты_бриджи] ImgMaskSet: 
+Size: 6 
+Real size: 6 
+Device: cuda 
+
+[2023-05-28 16:43:37,938][tools.dataset_tools][INFO] - Created [test][kenguru_Пляжная одежда] ImgMaskSet: 
+Size: 11 
+Real size: 11 
+Device: cuda 
+
+[2023-05-28 16:43:37,938][tools.dataset_tools][INFO] - Created [test][puma_Сумки_рюкзаки и чемоданы___Кроссбоди сумка] ImgMaskSet: 
+Size: 9 
+Real size: 9 
+Device: cuda 
+
+[2023-05-28 16:43:37,938][tools.dataset_tools][INFO] - Created [test][kenguru_Головные уборы___Кепки] ImgMaskSet: 
+Size: 13 
+Real size: 13 
+Device: cuda 
+
+[2023-05-28 16:43:37,938][tools.dataset_tools][INFO] - Created [test][puma_Верхняя одежда___Пальто] ImgMaskSet: 
+Size: 6 
+Real size: 6 
+Device: cuda 
+
+[2023-05-28 16:43:37,938][tools.dataset_tools][INFO] - Created [test][kenguru_Блузки_рубашки___Джинсовые рубашки] ImgMaskSet: 
+Size: 11 
+Real size: 11 
+Device: cuda 
+
+[2023-05-28 16:43:37,938][tools.dataset_tools][INFO] - Created [test][kenguru_Головные уборы___Береты] ImgMaskSet: 
+Size: 8 
+Real size: 8 
+Device: cuda 
+
+[2023-05-28 16:43:37,938][tools.dataset_tools][INFO] - Created [test][kenguru_Юбки___Ассиметричная] ImgMaskSet: 
+Size: 1 
+Real size: 1 
+Device: cuda 
+
+[2023-05-28 16:43:37,938][tools.dataset_tools][INFO] - Created [test][kenguru_Верхняя одежда___Дубленки] ImgMaskSet: 
+Size: 2 
+Real size: 2 
+Device: cuda 
+
+[2023-05-28 16:43:37,938][tools.dataset_tools][INFO] - Created [test][puma_Головные уборы] ImgMaskSet: 
+Size: 5 
+Real size: 5 
+Device: cuda 
+
+[2023-05-28 16:43:37,938][tools.dataset_tools][INFO] - Created [test][kenguru_Брюки___Прямые] ImgMaskSet: 
+Size: 10 
+Real size: 10 
+Device: cuda 
+
+[2023-05-28 16:43:37,938][tools.dataset_tools][INFO] - Created [test][kenguru_Юбки___Миди] ImgMaskSet: 
+Size: 2 
+Real size: 2 
+Device: cuda 
+
+[2023-05-28 16:43:37,938][tools.dataset_tools][INFO] - Created [test][kenguru_Разное] ImgMaskSet: 
+Size: 1 
+Real size: 1 
+Device: cuda 
+
+[2023-05-28 16:43:37,938][tools.dataset_tools][INFO] - Created [test][kenguru_Школьная одежда___Костюмы] ImgMaskSet: 
+Size: 5 
+Real size: 5 
+Device: cuda 
+
+[2023-05-28 16:43:37,938][tools.dataset_tools][INFO] - Created [test][kenguru_Платья_сарафаны___Туники] ImgMaskSet: 
+Size: 1 
+Real size: 1 
+Device: cuda 
+
+[2023-05-28 16:43:37,938][tools.dataset_tools][INFO] - Created [test][kenguru_Домашняя одежда и бельё___Гольфы] ImgMaskSet: 
+Size: 15 
+Real size: 15 
+Device: cuda 
+
+[2023-05-28 16:43:37,938][tools.dataset_tools][INFO] - Created [test][kenguru_Школьная одежда___Кофты_кардиганы_джемперы] ImgMaskSet: 
+Size: 10 
+Real size: 10 
+Device: cuda 
+
+[2023-05-28 16:43:37,938][tools.dataset_tools][INFO] - Created [test][kenguru_Платья_сарафаны___Мини] ImgMaskSet: 
+Size: 13 
+Real size: 13 
+Device: cuda 
+
+[2023-05-28 16:43:37,938][tools.dataset_tools][INFO] - Created [test][kenguru_Юбки___Пачка] ImgMaskSet: 
+Size: 2 
+Real size: 2 
+Device: cuda 
+
+[2023-05-28 16:43:37,938][tools.dataset_tools][INFO] - Created [test][kenguru_Юбки___Карандаш] ImgMaskSet: 
+Size: 5 
+Real size: 5 
+Device: cuda 
+
+[2023-05-28 16:43:37,938][tools.dataset_tools][INFO] - Created [test][puma_Головные уборы___Панамы] ImgMaskSet: 
+Size: 10 
+Real size: 10 
+Device: cuda 
+
+[2023-05-28 16:43:37,938][tools.dataset_tools][INFO] - Created [test][kenguru_Джинсы___Широкие] ImgMaskSet: 
+Size: 10 
+Real size: 10 
+Device: cuda 
+
+[2023-05-28 16:43:37,938][tools.dataset_tools][INFO] - Created [test][puma_Платки_шарфы_шали___Шарфы] ImgMaskSet: 
+Size: 5 
+Real size: 5 
+Device: cuda 
+
+[2023-05-28 16:43:37,938][tools.dataset_tools][INFO] - Created [test][kenguru_Спортивная одежда] ImgMaskSet: 
+Size: 2 
+Real size: 2 
+Device: cuda 
+
+[2023-05-28 16:43:37,938][tools.dataset_tools][INFO] - Created [test][puma_Обувь___Сандалии] ImgMaskSet: 
+Size: 1 
+Real size: 1 
+Device: cuda 
+
+[2023-05-28 16:43:37,938][tools.dataset_tools][INFO] - Created [test][puma_Кошельки] ImgMaskSet: 
+Size: 5 
+Real size: 5 
+Device: cuda 
+
+[2023-05-28 16:43:37,939][tools.dataset_tools][INFO] - Created [test][puma_Домашняя одежда и бельё___Гольфы] ImgMaskSet: 
+Size: 4 
+Real size: 4 
+Device: cuda 
+
+[2023-05-28 16:43:37,939][tools.dataset_tools][INFO] - Created [test][kenguru_Обувь___Лоферы] ImgMaskSet: 
+Size: 19 
+Real size: 19 
+Device: cuda 
+
+[2023-05-28 16:43:37,939][tools.dataset_tools][INFO] - Created [test][puma_Верхняя одежда___Парки] ImgMaskSet: 
+Size: 2 
+Real size: 2 
+Device: cuda 
+
+[2023-05-28 16:43:37,939][tools.dataset_tools][INFO] - Created [test][kenguru_Сумки_рюкзаки и чемоданы] ImgMaskSet: 
+Size: 1 
+Real size: 1 
+Device: cuda 
+
+[2023-05-28 16:43:37,939][tools.dataset_tools][INFO] - Created [test][puma_Джемперы_свитеры_кардиганы_кофты___Кардиганы] ImgMaskSet: 
+Size: 1 
+Real size: 1 
+Device: cuda 
+
+[2023-05-28 16:43:37,939][tools.dataset_tools][INFO] - Created [test][kenguru_Украшения___Комплекты] ImgMaskSet: 
+Size: 1 
+Real size: 1 
+Device: cuda 
+
+[2023-05-28 16:43:37,939][tools.dataset_tools][INFO] - Created [test][kenguru_Школьная одежда___Толстовки] ImgMaskSet: 
+Size: 8 
+Real size: 8 
+Device: cuda 
+
+[2023-05-28 16:43:37,939][tools.dataset_tools][INFO] - Created [test][kenguru_Верхняя одежда___Плащи] ImgMaskSet: 
+Size: 24 
+Real size: 24 
+Device: cuda 
+
+[2023-05-28 16:43:37,939][tools.dataset_tools][INFO] - Created [test][kenguru_Пляжная одежда___Раздельные купальники] ImgMaskSet: 
+Size: 4 
+Real size: 4 
+Device: cuda 
+
+[2023-05-28 16:43:37,939][tools.dataset_tools][INFO] - Created [test][kenguru_Джемперы_свитеры_кардиганы_кофты___Свитеры] ImgMaskSet: 
+Size: 20 
+Real size: 20 
+Device: cuda 
+
+[2023-05-28 16:43:37,939][tools.dataset_tools][INFO] - Created [test][kenguru_Платки_шарфы_шали___Платки] ImgMaskSet: 
+Size: 4 
+Real size: 4 
+Device: cuda 
+
+[2023-05-28 16:43:37,939][tools.dataset_tools][INFO] - Created [test][kenguru_Школьная одежда___Жилеты] ImgMaskSet: 
+Size: 8 
+Real size: 8 
+Device: cuda 
+
+[2023-05-28 16:43:37,939][tools.dataset_tools][INFO] - Created [test][kenguru_Школьная одежда___Пиджаки_жакеты] ImgMaskSet: 
+Size: 15 
+Real size: 15 
+Device: cuda 
+
+[2023-05-28 16:43:37,939][tools.dataset_tools][INFO] - Created [test][kenguru_Толстовки_олимпийки_худи_лонгсливы___Лонгсливы] ImgMaskSet: 
+Size: 2 
+Real size: 2 
+Device: cuda 
+
+[2023-05-28 16:43:37,939][tools.dataset_tools][INFO] - Created [test][kenguru_Школьная одежда___Юбки] ImgMaskSet: 
+Size: 19 
+Real size: 19 
+Device: cuda 
+
+[2023-05-28 16:43:37,939][tools.dataset_tools][INFO] - Created [test][kenguru_Украшения___Ожерелья] ImgMaskSet: 
+Size: 1 
+Real size: 1 
+Device: cuda 
+
+[2023-05-28 16:43:37,939][tools.dataset_tools][INFO] - Created [test][kenguru_Украшения___Серьги] ImgMaskSet: 
+Size: 19 
+Real size: 19 
+Device: cuda 
+
+[2023-05-28 16:43:37,939][tools.dataset_tools][INFO] - Created [test][puma_Комбинезоны] ImgMaskSet: 
+Size: 5 
+Real size: 5 
+Device: cuda 
+
+[2023-05-28 16:43:37,939][tools.dataset_tools][INFO] - Created [test][kenguru_Платья_сарафаны___Миди] ImgMaskSet: 
+Size: 4 
+Real size: 4 
+Device: cuda 
+
+[2023-05-28 16:43:37,939][tools.dataset_tools][INFO] - Created [test][kenguru_Обувь___Балетки] ImgMaskSet: 
+Size: 10 
+Real size: 10 
+Device: cuda 
+
+[2023-05-28 16:43:37,939][tools.dataset_tools][INFO] - Created [test][puma_Футболки_майки_поло_топы___Боди] ImgMaskSet: 
+Size: 5 
+Real size: 5 
+Device: cuda 
+
+[2023-05-28 16:43:37,939][tools.dataset_tools][INFO] - Created [test][kenguru_Толстовки_олимпийки_худи_лонгсливы___Худи] ImgMaskSet: 
+Size: 9 
+Real size: 9 
+Device: cuda 
+
+[2023-05-28 16:43:37,939][tools.dataset_tools][INFO] - Created [test][kenguru_Головные уборы___Шляпы] ImgMaskSet: 
+Size: 24 
+Real size: 24 
+Device: cuda 
+
+[2023-05-28 16:43:37,939][tools.dataset_tools][INFO] - Created [test][puma_Домашняя одежда и бельё___Халаты] ImgMaskSet: 
+Size: 1 
+Real size: 1 
+Device: cuda 
+
+[2023-05-28 16:43:37,939][tools.dataset_tools][INFO] - Created [test][kenguru_Джинсы___Прямые] ImgMaskSet: 
+Size: 10 
+Real size: 10 
+Device: cuda 
+
+[2023-05-28 16:43:37,939][tools.dataset_tools][INFO] - Created [test][kenguru_Юбки___Макси] ImgMaskSet: 
+Size: 1 
+Real size: 1 
+Device: cuda 
+
+[2023-05-28 16:43:37,939][tools.dataset_tools][INFO] - Created [test][puma_Костюмы_пиджаки___Жилеты] ImgMaskSet: 
+Size: 7 
+Real size: 7 
+Device: cuda 
+
+[2023-05-28 16:43:37,939][tools.dataset_tools][INFO] - Created [test][puma_Верхняя одежда] ImgMaskSet: 
+Size: 4 
+Real size: 4 
+Device: cuda 
+
+[2023-05-28 16:43:37,939][tools.dataset_tools][INFO] - Created [test][puma_Обувь___Слипоны] ImgMaskSet: 
+Size: 2 
+Real size: 2 
+Device: cuda 
+
+[2023-05-28 16:43:37,939][tools.dataset_tools][INFO] - Created [test][kenguru_Школьная одежда___Галстуки_бабочки] ImgMaskSet: 
+Size: 9 
+Real size: 9 
+Device: cuda 
+
+[2023-05-28 16:43:37,939][tools.dataset_tools][INFO] - Created [test][kenguru_Платья_сарафаны___Макси] ImgMaskSet: 
+Size: 6 
+Real size: 6 
+Device: cuda 
+
+[2023-05-28 16:43:37,939][tools.dataset_tools][INFO] - Created [test][kenguru_Юбки___Трапеция] ImgMaskSet: 
+Size: 1 
+Real size: 1 
+Device: cuda 
+
+[2023-05-28 16:43:37,939][tools.dataset_tools][INFO] - Created [test][puma_Аксессуары___Для волос] ImgMaskSet: 
+Size: 15 
+Real size: 15 
+Device: cuda 
+
+[2023-05-28 16:43:37,939][tools.dataset_tools][INFO] - Created [test][kenguru_Платья_сарафаны___Шелковые] ImgMaskSet: 
+Size: 17 
+Real size: 17 
+Device: cuda 
+
+[2023-05-28 16:43:37,939][tools.dataset_tools][INFO] - Created [test][kenguru_Юбки___Юбка-шорты] ImgMaskSet: 
+Size: 5 
+Real size: 5 
+Device: cuda 
+
+[2023-05-28 16:43:37,939][tools.dataset_tools][INFO] - Created [test][puma_Пляжная одежда___Раздельные купальники] ImgMaskSet: 
+Size: 12 
+Real size: 12 
+Device: cuda 
+
+[2023-05-28 16:43:37,939][tools.dataset_tools][INFO] - Created [test][kenguru_Пляжная одежда___Слитные купальники] ImgMaskSet: 
+Size: 17 
+Real size: 17 
+Device: cuda 
+
+[2023-05-28 16:43:37,939][tools.dataset_tools][INFO] - Created [test][kenguru_Школьная одежда___Фартуки] ImgMaskSet: 
+Size: 5 
+Real size: 5 
+Device: cuda 
+
+[2023-05-28 16:43:37,939][tools.dataset_tools][INFO] - Created [test][kenguru_Юбки___Плиссе] ImgMaskSet: 
+Size: 19 
+Real size: 19 
+Device: cuda 
+
+[2023-05-28 16:43:37,939][tools.dataset_tools][INFO] - Created [test][kenguru_Юбки___Тюльпан] ImgMaskSet: 
+Size: 1 
+Real size: 1 
+Device: cuda 
+
+[2023-05-28 16:43:37,939][tools.dataset_tools][INFO] - Created [test][kenguru_Брюки___Кюлоты] ImgMaskSet: 
+Size: 4 
+Real size: 4 
+Device: cuda 
+
+[2023-05-28 16:43:37,939][tools.dataset_tools][INFO] - Created [test][kenguru_Джинсы___Зауженные] ImgMaskSet: 
+Size: 13 
+Real size: 13 
+Device: cuda 
+
+[2023-05-28 16:43:37,939][tools.dataset_tools][INFO] - Created [test][puma_Джемперы_свитеры_кардиганы_кофты___Свитеры] ImgMaskSet: 
+Size: 1 
+Real size: 1 
+Device: cuda 
+
+[2023-05-28 16:43:37,940][tools.dataset_tools][INFO] - Created [test][puma_Сумки_рюкзаки и чемоданы___Тоут] ImgMaskSet: 
+Size: 3 
+Real size: 3 
+Device: cuda 
+
+[2023-05-28 16:43:37,940][tools.dataset_tools][INFO] - Created [test][kenguru_Брюки___Карго] ImgMaskSet: 
+Size: 19 
+Real size: 19 
+Device: cuda 
+
+[2023-05-28 16:43:37,940][tools.dataset_tools][INFO] - Created [test][puma_Юбки___Миди] ImgMaskSet: 
+Size: 2 
+Real size: 2 
+Device: cuda 
+
+[2023-05-28 16:43:37,940][tools.dataset_tools][INFO] - Created [test][kenguru_Юбки___Солнце] ImgMaskSet: 
+Size: 1 
+Real size: 1 
+Device: cuda 
+
+[2023-05-28 16:43:37,940][tools.dataset_tools][INFO] - Created [test][kenguru_Брюки___Клеш] ImgMaskSet: 
+Size: 9 
+Real size: 9 
+Device: cuda 
+
+[2023-05-28 16:43:37,940][tools.dataset_tools][INFO] - Created [test][kenguru_Школьная одежда___Шорты] ImgMaskSet: 
+Size: 3 
+Real size: 3 
+Device: cuda 
+
+[2023-05-28 16:43:37,940][tools.dataset_tools][INFO] - Created [test][puma_Обувь___Ботинки] ImgMaskSet: 
+Size: 22 
+Real size: 22 
+Device: cuda 
+
+[2023-05-28 16:43:37,940][tools.dataset_tools][INFO] - Created [test][kenguru_Обувь___Слипоны] ImgMaskSet: 
+Size: 2 
+Real size: 2 
+Device: cuda 
+
+[2023-05-28 16:43:37,940][tools.dataset_tools][INFO] - Created [test][puma_Футболки_майки_поло_топы] ImgMaskSet: 
+Size: 22 
+Real size: 22 
+Device: cuda 
+
+[2023-05-28 16:43:37,940][tools.dataset_tools][INFO] - Created [test][kenguru_Верхняя одежда___Парки] ImgMaskSet: 
+Size: 9 
+Real size: 9 
+Device: cuda 
+
+[2023-05-28 16:43:37,940][tools.dataset_tools][INFO] - Created [test][kenguru_Обувь___Эспадрильи] ImgMaskSet: 
+Size: 2 
+Real size: 2 
+Device: cuda 
+
+[2023-05-28 16:43:37,940][tools.dataset_tools][INFO] - Created [test][kenguru_Брюки___Укороченные] ImgMaskSet: 
+Size: 2 
+Real size: 2 
+Device: cuda 
+
+[2023-05-28 16:43:37,940][tools.dataset_tools][INFO] - Created [test][kenguru_Брюки___Широкие] ImgMaskSet: 
+Size: 7 
+Real size: 7 
+Device: cuda 
+
+[2023-05-28 16:43:37,940][tools.dataset_tools][INFO] - Created [test][puma_Сумки_рюкзаки и чемоданы___Мессенджер] ImgMaskSet: 
+Size: 2 
+Real size: 2 
+Device: cuda 
+
+[2023-05-28 16:43:37,940][tools.dataset_tools][INFO] - Created [test][kenguru_Футболки_майки_поло_топы___Топы] ImgMaskSet: 
+Size: 51 
+Real size: 51 
+Device: cuda 
+
+[2023-05-28 16:43:37,940][tools.dataset_tools][INFO] - Created [test][kenguru_Ремни] ImgMaskSet: 
+Size: 15 
+Real size: 15 
+Device: cuda 
+
+[2023-05-28 16:43:37,940][tools.dataset_tools][INFO] - Created [test][kenguru_Украшения___Подвески и кулоны] ImgMaskSet: 
+Size: 8 
+Real size: 8 
+Device: cuda 
+
+[2023-05-28 16:43:37,940][tools.dataset_tools][INFO] - Created [test][kenguru_Головные уборы___Панамы] ImgMaskSet: 
+Size: 65 
+Real size: 65 
+Device: cuda 
+
+[2023-05-28 16:43:37,940][tools.dataset_tools][INFO] - Created [test][kenguru_Юбки] ImgMaskSet: 
+Size: 53 
+Real size: 53 
+Device: cuda 
+
+[2023-05-28 16:43:37,940][tools.dataset_tools][INFO] - Created [test][kenguru_Джемперы_свитеры_кардиганы_кофты___Джемперы] ImgMaskSet: 
+Size: 51 
+Real size: 51 
+Device: cuda 
+
+[2023-05-28 16:43:37,940][tools.dataset_tools][INFO] - Created [test][kenguru_Платья_сарафаны] ImgMaskSet: 
+Size: 100 
+Real size: 100 
+Device: cuda 
+
+[2023-05-28 16:43:37,940][tools.dataset_tools][INFO] - Created [test][kenguru_Школьная одежда___Брюки] ImgMaskSet: 
+Size: 10 
+Real size: 10 
+Device: cuda 
+
+[2023-05-28 16:43:37,940][tools.dataset_tools][INFO] - Created [test][kenguru_Верхняя одежда___Пуховики] ImgMaskSet: 
+Size: 56 
+Real size: 56 
+Device: cuda 
+
+[2023-05-28 16:43:37,940][tools.dataset_tools][INFO] - Created [test][kenguru_Сумки_рюкзаки и чемоданы___Сумки через плечо] ImgMaskSet: 
+Size: 38 
+Real size: 38 
+Device: cuda 
+
+[2023-05-28 16:43:37,940][tools.dataset_tools][INFO] - Created [test][kenguru_Домашняя одежда и бельё___Колготки] ImgMaskSet: 
+Size: 83 
+Real size: 83 
+Device: cuda 
+
+[2023-05-28 16:43:37,940][tools.dataset_tools][INFO] - Created [test][kenguru_Верхняя одежда___Шубы] ImgMaskSet: 
+Size: 8 
+Real size: 8 
+Device: cuda 
+
+[2023-05-28 16:43:37,940][tools.dataset_tools][INFO] - Created [test][puma_Обувь___Бутсы] ImgMaskSet: 
+Size: 42 
+Real size: 42 
+Device: cuda 
+
+[2023-05-28 16:43:37,940][tools.dataset_tools][INFO] - Created [test][kenguru_Обувь] ImgMaskSet: 
+Size: 22 
+Real size: 22 
+Device: cuda 
+
+[2023-05-28 16:43:37,940][tools.dataset_tools][INFO] - Created [test][puma_Домашняя одежда и бельё___Носки] ImgMaskSet: 
+Size: 100 
+Real size: 100 
+Device: cuda 
+
+[2023-05-28 16:43:37,940][tools.dataset_tools][INFO] - Created [test][puma_Нижнее бельё] ImgMaskSet: 
+Size: 83 
+Real size: 83 
+Device: cuda 
+
+[2023-05-28 16:43:37,940][tools.dataset_tools][INFO] - Created [test][kenguru_Спортивная одежда___Костюмы] ImgMaskSet: 
+Size: 32 
+Real size: 32 
+Device: cuda 
+
+[2023-05-28 16:43:37,940][tools.dataset_tools][INFO] - Created [test][kenguru_Джемперы_свитеры_кардиганы_кофты___Кофты] ImgMaskSet: 
+Size: 12 
+Real size: 12 
+Device: cuda 
+
+[2023-05-28 16:43:37,940][tools.dataset_tools][INFO] - Created [test][kenguru_Обувь___Босоножки] ImgMaskSet: 
+Size: 48 
+Real size: 48 
+Device: cuda 
+
+[2023-05-28 16:43:37,940][tools.dataset_tools][INFO] - Created [test][kenguru_Футболки_майки_поло_топы___Поло] ImgMaskSet: 
+Size: 17 
+Real size: 17 
+Device: cuda 
+
+[2023-05-28 16:43:37,940][tools.dataset_tools][INFO] - Created [test][kenguru_Комбинезоны] ImgMaskSet: 
+Size: 100 
+Real size: 100 
+Device: cuda 
+
+[2023-05-28 16:43:37,940][tools.dataset_tools][INFO] - Created [test][puma_Толстовки_олимпийки_худи_лонгсливы] ImgMaskSet: 
+Size: 32 
+Real size: 32 
+Device: cuda 
+
+[2023-05-28 16:43:37,940][tools.dataset_tools][INFO] - Created [test][kenguru_Украшения] ImgMaskSet: 
+Size: 8 
+Real size: 8 
+Device: cuda 
+
+[2023-05-28 16:43:37,940][tools.dataset_tools][INFO] - Created [test][kenguru_Домашняя одежда и бельё] ImgMaskSet: 
+Size: 43 
+Real size: 43 
+Device: cuda 
+
+[2023-05-28 16:43:37,940][tools.dataset_tools][INFO] - Created [test][puma_Футболки_майки_поло_топы___Футболки] ImgMaskSet: 
+Size: 100 
+Real size: 100 
+Device: cuda 
+
+[2023-05-28 16:43:37,940][tools.dataset_tools][INFO] - Created [test][kenguru_Костюмы_пиджаки___Пиджаки] ImgMaskSet: 
+Size: 27 
+Real size: 27 
+Device: cuda 
+
+[2023-05-28 16:43:37,940][tools.dataset_tools][INFO] - Created [test][kenguru_Украшения___Колье] ImgMaskSet: 
+Size: 11 
+Real size: 11 
+Device: cuda 
+
+[2023-05-28 16:43:37,940][tools.dataset_tools][INFO] - Created [test][puma_Перчатки и варежки] ImgMaskSet: 
+Size: 11 
+Real size: 11 
+Device: cuda 
+
+[2023-05-28 16:43:37,940][tools.dataset_tools][INFO] - Created [test][kenguru_Платки_шарфы_шали___Шарфы] ImgMaskSet: 
+Size: 79 
+Real size: 79 
+Device: cuda 
+
+[2023-05-28 16:43:37,940][tools.dataset_tools][INFO] - Created [test][kenguru_Головные уборы] ImgMaskSet: 
+Size: 42 
+Real size: 42 
+Device: cuda 
+
+[2023-05-28 16:43:37,941][tools.dataset_tools][INFO] - Created [test][puma_Обувь___Кроссовки] ImgMaskSet: 
+Size: 100 
+Real size: 100 
+Device: cuda 
+
+[2023-05-28 16:43:37,941][tools.dataset_tools][INFO] - Created [test][puma_Футболки_майки_поло_топы___Топы] ImgMaskSet: 
+Size: 54 
+Real size: 54 
+Device: cuda 
+
+[2023-05-28 16:43:37,941][tools.dataset_tools][INFO] - Created [test][kenguru_Блузки_рубашки___Рубашки] ImgMaskSet: 
+Size: 85 
+Real size: 85 
+Device: cuda 
+
+[2023-05-28 16:43:37,941][tools.dataset_tools][INFO] - Created [test][puma_Шорты_бриджи___Шорты] ImgMaskSet: 
+Size: 100 
+Real size: 100 
+Device: cuda 
+
+[2023-05-28 16:43:37,941][tools.dataset_tools][INFO] - Created [test][puma_Спортивная одежда___Леггинсы] ImgMaskSet: 
+Size: 72 
+Real size: 72 
+Device: cuda 
+
+[2023-05-28 16:43:37,941][tools.dataset_tools][INFO] - Created [test][kenguru_Спортивная одежда___Спортивные куртки] ImgMaskSet: 
+Size: 70 
+Real size: 70 
+Device: cuda 
+
+[2023-05-28 16:43:37,941][tools.dataset_tools][INFO] - Created [test][kenguru_Толстовки_олимпийки_худи_лонгсливы] ImgMaskSet: 
+Size: 100 
+Real size: 100 
+Device: cuda 
+
+[2023-05-28 16:43:37,941][tools.dataset_tools][INFO] - Created [test][puma_Головные уборы___Кепки] ImgMaskSet: 
+Size: 34 
+Real size: 34 
+Device: cuda 
+
+[2023-05-28 16:43:37,941][tools.dataset_tools][INFO] - Created [test][kenguru_Головные уборы___Шапки] ImgMaskSet: 
+Size: 100 
+Real size: 100 
+Device: cuda 
+
+[2023-05-28 16:43:37,941][tools.dataset_tools][INFO] - Created [test][puma_Другое] ImgMaskSet: 
+Size: 19 
+Real size: 19 
+Device: cuda 
+
+[2023-05-28 16:43:37,941][tools.dataset_tools][INFO] - Created [test][kenguru_Аксессуары___Галстуки_бабочки] ImgMaskSet: 
+Size: 8 
+Real size: 8 
+Device: cuda 
+
+[2023-05-28 16:43:37,941][tools.dataset_tools][INFO] - Created [test][kenguru_Джинсы] ImgMaskSet: 
+Size: 78 
+Real size: 78 
+Device: cuda 
+
+[2023-05-28 16:43:37,941][tools.dataset_tools][INFO] - Created [test][puma_Разное] ImgMaskSet: 
+Size: 32 
+Real size: 32 
+Device: cuda 
+
+[2023-05-28 16:43:37,941][tools.dataset_tools][INFO] - Created [test][kenguru_Джемперы_свитеры_кардиганы_кофты___Свитшоты] ImgMaskSet: 
+Size: 22 
+Real size: 22 
+Device: cuda 
+
+[2023-05-28 16:43:37,941][tools.dataset_tools][INFO] - Created [test][kenguru_Головные уборы___Бейсболки] ImgMaskSet: 
+Size: 87 
+Real size: 87 
+Device: cuda 
+
+[2023-05-28 16:43:37,941][tools.dataset_tools][INFO] - Created [test][kenguru_Верхняя одежда___Ветровки] ImgMaskSet: 
+Size: 23 
+Real size: 23 
+Device: cuda 
+
+[2023-05-28 16:43:37,941][tools.dataset_tools][INFO] - Created [test][puma_Джемперы_свитеры_кардиганы_кофты___Свитшоты] ImgMaskSet: 
+Size: 23 
+Real size: 23 
+Device: cuda 
+
+[2023-05-28 16:43:37,941][tools.dataset_tools][INFO] - Created [test][kenguru_Нижнее бельё] ImgMaskSet: 
+Size: 20 
+Real size: 20 
+Device: cuda 
+
+[2023-05-28 16:43:37,941][tools.dataset_tools][INFO] - Created [test][kenguru_Платья_сарафаны___Сарафаны] ImgMaskSet: 
+Size: 23 
+Real size: 23 
+Device: cuda 
+
+[2023-05-28 16:43:37,941][tools.dataset_tools][INFO] - Created [test][kenguru_Брюки___Классические] ImgMaskSet: 
+Size: 9 
+Real size: 9 
+Device: cuda 
+
+[2023-05-28 16:43:37,941][tools.dataset_tools][INFO] - Created [test][puma_Украшения___Комплекты] ImgMaskSet: 
+Size: 15 
+Real size: 15 
+Device: cuda 
+
+[2023-05-28 16:43:37,941][tools.dataset_tools][INFO] - Created [test][puma_Толстовки_олимпийки_худи_лонгсливы___Олимпийки] ImgMaskSet: 
+Size: 62 
+Real size: 62 
+Device: cuda 
+
+[2023-05-28 16:43:37,941][tools.dataset_tools][INFO] - Created [test][puma_Толстовки_олимпийки_худи_лонгсливы___Худи] ImgMaskSet: 
+Size: 8 
+Real size: 8 
+Device: cuda 
+
+[2023-05-28 16:43:37,941][tools.dataset_tools][INFO] - Created [test][puma_Головные уборы___Шапки] ImgMaskSet: 
+Size: 71 
+Real size: 71 
+Device: cuda 
+
+[2023-05-28 16:43:37,941][tools.dataset_tools][INFO] - Created [test][kenguru_Верхняя одежда___Жилеты (верхняя одежда)] ImgMaskSet: 
+Size: 25 
+Real size: 25 
+Device: cuda 
+
+[2023-05-28 16:43:37,941][tools.dataset_tools][INFO] - Created [test][kenguru_Спортивная одежда___Спортивные брюки] ImgMaskSet: 
+Size: 100 
+Real size: 100 
+Device: cuda 
+
+[2023-05-28 16:43:37,941][tools.dataset_tools][INFO] - Created [test][kenguru_Брюки___Леггинсы] ImgMaskSet: 
+Size: 61 
+Real size: 61 
+Device: cuda 
+
+[2023-05-28 16:43:37,941][tools.dataset_tools][INFO] - Created [test][puma_Верхняя одежда___Куртки] ImgMaskSet: 
+Size: 57 
+Real size: 57 
+Device: cuda 
+
+[2023-05-28 16:43:37,941][tools.dataset_tools][INFO] - Created [test][kenguru_Джемперы_свитеры_кардиганы_кофты___Кардиганы] ImgMaskSet: 
+Size: 23 
+Real size: 23 
+Device: cuda 
+
+[2023-05-28 16:43:37,941][tools.dataset_tools][INFO] - Created [test][puma_Толстовки_олимпийки_худи_лонгсливы___Лонгсливы] ImgMaskSet: 
+Size: 20 
+Real size: 20 
+Device: cuda 
+
+[2023-05-28 16:43:37,941][tools.dataset_tools][INFO] - Created [test][puma_Верхняя одежда___Ветровки] ImgMaskSet: 
+Size: 17 
+Real size: 17 
+Device: cuda 
+
+[2023-05-28 16:43:37,941][tools.dataset_tools][INFO] - Created [test][kenguru_Шорты_бриджи] ImgMaskSet: 
+Size: 7 
+Real size: 7 
+Device: cuda 
+
+[2023-05-28 16:43:37,941][tools.dataset_tools][INFO] - Created [test][kenguru_Блузки_рубашки___Блузки] ImgMaskSet: 
+Size: 14 
+Real size: 14 
+Device: cuda 
+
+[2023-05-28 16:43:37,941][tools.dataset_tools][INFO] - Created [test][kenguru_Верхняя одежда___Куртки] ImgMaskSet: 
+Size: 100 
+Real size: 100 
+Device: cuda 
+
+[2023-05-28 16:43:37,941][tools.dataset_tools][INFO] - Created [test][kenguru_Перчатки и варежки] ImgMaskSet: 
+Size: 92 
+Real size: 92 
+Device: cuda 
+
+[2023-05-28 16:43:37,941][tools.dataset_tools][INFO] - Created [test][kenguru_Другое] ImgMaskSet: 
+Size: 24 
+Real size: 24 
+Device: cuda 
+
+[2023-05-28 16:43:37,941][tools.dataset_tools][INFO] - Created [test][kenguru_Обувь___Сапоги] ImgMaskSet: 
+Size: 46 
+Real size: 46 
+Device: cuda 
+
+[2023-05-28 16:43:37,941][tools.dataset_tools][INFO] - Created [test][kenguru_Шорты_бриджи___Шорты] ImgMaskSet: 
+Size: 100 
+Real size: 100 
+Device: cuda 
+
+[2023-05-28 16:43:37,941][tools.dataset_tools][INFO] - Created [test][puma_Футболки_майки_поло_топы___Поло] ImgMaskSet: 
+Size: 23 
+Real size: 23 
+Device: cuda 
+
+[2023-05-28 16:43:37,941][tools.dataset_tools][INFO] - Created [test][kenguru_Верхняя одежда___Пальто] ImgMaskSet: 
+Size: 18 
+Real size: 18 
+Device: cuda 
+
+[2023-05-28 16:43:37,942][tools.dataset_tools][INFO] - Created [test][kenguru_Джемперы_свитеры_кардиганы_кофты___Водолазки] ImgMaskSet: 
+Size: 46 
+Real size: 46 
+Device: cuda 
+
+[2023-05-28 16:43:37,942][tools.dataset_tools][INFO] - Created [test][kenguru_Домашняя одежда и бельё___Носки] ImgMaskSet: 
+Size: 100 
+Real size: 100 
+Device: cuda 
+
+[2023-05-28 16:43:37,942][tools.dataset_tools][INFO] - Created [test][kenguru_Шорты_бриджи___Джинсовые шорты] ImgMaskSet: 
+Size: 15 
+Real size: 15 
+Device: cuda 
+
+[2023-05-28 16:43:37,942][tools.dataset_tools][INFO] - Created [test][kenguru_Обувь___Туфли] ImgMaskSet: 
+Size: 37 
+Real size: 37 
+Device: cuda 
+
+[2023-05-28 16:43:37,942][tools.dataset_tools][INFO] - Created [test][puma_Толстовки_олимпийки_худи_лонгсливы___Толстовки] ImgMaskSet: 
+Size: 100 
+Real size: 100 
+Device: cuda 
+
+[2023-05-28 16:43:37,942][tools.dataset_tools][INFO] - Created [test][kenguru_Сумки_рюкзаки и чемоданы___Рюкзаки] ImgMaskSet: 
+Size: 24 
+Real size: 24 
+Device: cuda 
+
+[2023-05-28 16:43:37,942][tools.dataset_tools][INFO] - Created [test][puma_Обувь___Кеды] ImgMaskSet: 
+Size: 100 
+Real size: 100 
+Device: cuda 
+
+[2023-05-28 16:43:37,942][tools.dataset_tools][INFO] - Created [test][kenguru_Обувь___Ботинки] ImgMaskSet: 
+Size: 38 
+Real size: 38 
+Device: cuda 
+
+[2023-05-28 16:43:37,942][tools.dataset_tools][INFO] - Created [test][puma_Футболки_майки_поло_топы___Майки] ImgMaskSet: 
+Size: 22 
+Real size: 22 
+Device: cuda 
+
+[2023-05-28 16:43:37,942][tools.dataset_tools][INFO] - Created [test][kenguru_Верхняя одежда___Джинсовые куртки] ImgMaskSet: 
+Size: 20 
+Real size: 20 
+Device: cuda 
+
+[2023-05-28 16:43:37,942][tools.dataset_tools][INFO] - Created [test][puma_Платья_сарафаны] ImgMaskSet: 
+Size: 20 
+Real size: 20 
+Device: cuda 
+
+[2023-05-28 16:43:37,942][tools.dataset_tools][INFO] - Created [test][kenguru_Футболки_майки_поло_топы___Футболки] ImgMaskSet: 
+Size: 100 
+Real size: 100 
+Device: cuda 
+
+[2023-05-28 16:43:37,942][tools.dataset_tools][INFO] - Created [test][puma_Пляжная одежда___Плавки] ImgMaskSet: 
+Size: 28 
+Real size: 28 
+Device: cuda 
+
+[2023-05-28 16:43:37,942][tools.dataset_tools][INFO] - Created [test][puma_Пляжная одежда] ImgMaskSet: 
+Size: 9 
+Real size: 9 
+Device: cuda 
+
+[2023-05-28 16:43:37,942][tools.dataset_tools][INFO] - Created [test][puma_Юбки] ImgMaskSet: 
+Size: 9 
+Real size: 9 
+Device: cuda 
+
+[2023-05-28 16:43:37,942][tools.dataset_tools][INFO] - Created [test][kenguru_Брюки___Спортивные брюки casual] ImgMaskSet: 
+Size: 16 
+Real size: 16 
+Device: cuda 
+
+[2023-05-28 16:43:37,942][tools.dataset_tools][INFO] - Created [test][kenguru_Обувь___Сандалии] ImgMaskSet: 
+Size: 43 
+Real size: 43 
+Device: cuda 
+
+[2023-05-28 16:43:37,942][tools.dataset_tools][INFO] - Created [test][kenguru_Брюки___Джоггеры] ImgMaskSet: 
+Size: 9 
+Real size: 9 
+Device: cuda 
+
+[2023-05-28 16:43:37,942][tools.dataset_tools][INFO] - Created [test][puma_Брюки] ImgMaskSet: 
+Size: 100 
+Real size: 100 
+Device: cuda 
+
+[2023-05-28 16:43:37,942][tools.dataset_tools][INFO] - Created [test][puma_Аксессуары] ImgMaskSet: 
+Size: 18 
+Real size: 18 
+Device: cuda 
+
+[2023-05-28 16:43:37,942][tools.dataset_tools][INFO] - Created [test][kenguru_Костюмы_пиджаки___Жилеты] ImgMaskSet: 
+Size: 13 
+Real size: 13 
+Device: cuda 
+
+[2023-05-28 16:43:37,942][tools.dataset_tools][INFO] - Created [test][puma_Спортивная одежда___Костюмы] ImgMaskSet: 
+Size: 17 
+Real size: 17 
+Device: cuda 
+
+[2023-05-28 16:43:37,942][tools.dataset_tools][INFO] - Created [test][kenguru_Украшения___Браслеты] ImgMaskSet: 
+Size: 20 
+Real size: 20 
+Device: cuda 
+
+[2023-05-28 16:43:37,942][tools.dataset_tools][INFO] - Created [test][puma_Сумки_рюкзаки и чемоданы___Рюкзаки] ImgMaskSet: 
+Size: 72 
+Real size: 72 
+Device: cuda 
+
+[2023-05-28 16:43:37,942][tools.dataset_tools][INFO] - Created [test][puma_Сумки_рюкзаки и чемоданы___Поясные сумки] ImgMaskSet: 
+Size: 9 
+Real size: 9 
+Device: cuda 
+
+[2023-05-28 16:43:37,942][tools.dataset_tools][INFO] - Created [test][kenguru_Джемперы_свитеры_кардиганы_кофты] ImgMaskSet: 
+Size: 26 
+Real size: 26 
+Device: cuda 
+
+[2023-05-28 16:43:37,942][tools.dataset_tools][INFO] - Created [test][kenguru_Школьная одежда___Рюкзаки_ранцы_сумки] ImgMaskSet: 
+Size: 18 
+Real size: 18 
+Device: cuda 
+
+[2023-05-28 16:43:37,942][tools.dataset_tools][INFO] - Created [test][kenguru_Аксессуары___Для волос] ImgMaskSet: 
+Size: 100 
+Real size: 100 
+Device: cuda 
+
+[2023-05-28 16:43:37,942][tools.dataset_tools][INFO] - Created [test][kenguru_Обувь___Кроссовки] ImgMaskSet: 
+Size: 88 
+Real size: 88 
+Device: cuda 
+
+[2023-05-28 16:43:37,942][tools.dataset_tools][INFO] - Created [test][kenguru_Джинсы___Клеш] ImgMaskSet: 
+Size: 7 
+Real size: 7 
+Device: cuda 
+
+[2023-05-28 16:43:37,942][tools.dataset_tools][INFO] - Created [test][puma_Сумки_рюкзаки и чемоданы] ImgMaskSet: 
+Size: 66 
+Real size: 66 
+Device: cuda 
+
+[2023-05-28 16:43:37,942][tools.dataset_tools][INFO] - Created [test][kenguru_Толстовки_олимпийки_худи_лонгсливы___Толстовки] ImgMaskSet: 
+Size: 100 
+Real size: 100 
+Device: cuda 
+
+[2023-05-28 16:43:37,942][tools.dataset_tools][INFO] - Created [test][puma_Спортивная одежда___Спортивные брюки] ImgMaskSet: 
+Size: 12 
+Real size: 12 
+Device: cuda 
+
+[2023-05-28 16:43:37,942][tools.dataset_tools][INFO] - Created [test][puma_Обувь___Шлепанцы] ImgMaskSet: 
+Size: 26 
+Real size: 26 
+Device: cuda 
+
+[2023-05-28 16:43:37,942][tools.dataset_tools][INFO] - Created [test][puma_Блузки_рубашки___Рубашки] ImgMaskSet: 
+Size: 13 
+Real size: 13 
+Device: cuda 
+
+[2023-05-28 16:43:37,942][tools.dataset_tools][INFO] - Created [test][kenguru_Футболки_майки_поло_топы___Майки] ImgMaskSet: 
+Size: 9 
+Real size: 9 
+Device: cuda 
+
+[2023-05-28 16:43:37,942][tools.dataset_tools][INFO] - Created [test][kenguru_Блузки_рубашки] ImgMaskSet: 
+Size: 10 
+Real size: 10 
+Device: cuda 
+
+[2023-05-28 16:43:37,942][tools.dataset_tools][INFO] - Created [test][kenguru_Обувь___Шлепанцы] ImgMaskSet: 
+Size: 7 
+Real size: 7 
+Device: cuda 
+
+[2023-05-28 16:43:37,942][tools.dataset_tools][INFO] - Created [test][kenguru_Обувь___Резиновые сапоги] ImgMaskSet: 
+Size: 9 
+Real size: 9 
+Device: cuda 
+
+[2023-05-28 16:43:37,942][tools.dataset_tools][INFO] - Created [test][kenguru_Брюки___Бермуды] ImgMaskSet: 
+Size: 59 
+Real size: 59 
+Device: cuda 
+
+[2023-05-28 16:43:37,942][tools.dataset_tools][INFO] - Created [test][kenguru_Брюки] ImgMaskSet: 
+Size: 100 
+Real size: 100 
+Device: cuda 
+
+[2023-05-28 16:43:37,942][tools.dataset_tools][INFO] - Created [test][kenguru_Обувь___Кеды] ImgMaskSet: 
+Size: 89 
+Real size: 89 
+Device: cuda 
+
+[2023-05-28 16:43:37,942][tools.dataset_tools][INFO] - Created [test][kenguru_Костюмы_пиджаки] ImgMaskSet: 
+Size: 22 
+Real size: 22 
+Device: cuda 
+
+[2023-05-28 16:43:37,943][tools.dataset_tools][INFO] - Created [test][kenguru_Очки] ImgMaskSet: 
+Size: 10 
+Real size: 10 
+Device: cuda 
+
+[2023-05-28 16:43:37,943][tools.dataset_tools][INFO] - Created [test][kenguru_Футболки_майки_поло_топы___Боди] ImgMaskSet: 
+Size: 50 
+Real size: 50 
+Device: cuda 
+
+[2023-05-28 16:43:37,943][tools.dataset_tools][INFO] - Created [test][kenguru_Школьная одежда___Блузы_рубашки] ImgMaskSet: 
+Size: 17 
+Real size: 17 
+Device: cuda 
+
+[2023-05-28 16:43:37,943][tools.dataset_tools][INFO] - Created test MultiImgMaskSet: 
+Size: 5843 
+Real size: 5843 
+Device: cuda 
+
+[2023-05-28 16:43:37,946][tools.train_tools][INFO] - ===== TRAIN (Epoch: 0) =====
+[2023-05-28 16:48:33,291][tools.train_tools][INFO] - Loss: 0.1021797419382532
+[2023-05-28 16:48:33,292][tools.train_tools][INFO] - ===== Validation (Epoch: 0) =====
+[2023-05-28 16:52:16,977][tools.train_tools][INFO] - Loss: 0.08698739620784321
+[2023-05-28 16:52:16,977][tools.early_stopper][INFO] - Validation metric changed from None to 0.9863784143482193
+[2023-05-28 16:52:16,986][tools.train_tools][INFO] - ===== TRAIN (Epoch: 1) =====
+[2023-05-28 16:57:13,711][tools.train_tools][INFO] - Loss: 0.0965766092563624
+[2023-05-28 16:57:13,712][tools.train_tools][INFO] - ===== TRAIN (Epoch: 2) =====
+[2023-05-28 17:02:12,238][tools.train_tools][INFO] - Loss: 0.09461581024929046
+[2023-05-28 17:02:12,240][tools.train_tools][INFO] - ===== TRAIN (Epoch: 3) =====
+[2023-05-28 17:07:07,769][tools.train_tools][INFO] - Loss: 0.09120920086936321
+[2023-05-28 17:07:07,771][tools.train_tools][INFO] - ===== TRAIN (Epoch: 4) =====
+[2023-05-28 17:12:05,206][tools.train_tools][INFO] - Loss: 0.09219516984525576
+[2023-05-28 17:12:05,207][tools.train_tools][INFO] - ===== Validation (Epoch: 4) =====
+[2023-05-28 17:15:47,662][tools.train_tools][INFO] - Loss: 0.08637593838446117
+[2023-05-28 17:15:47,663][tools.early_stopper][INFO] - Validation metric changed from 0.9863784143482193 to 0.9863891108903537
+[2023-05-28 17:15:47,673][tools.train_tools][INFO] - ===== TRAIN (Epoch: 5) =====
+[2023-05-28 17:20:44,635][tools.train_tools][INFO] - Loss: 0.09034642690344702
+[2023-05-28 17:20:44,636][tools.train_tools][INFO] - ===== TRAIN (Epoch: 6) =====
+[2023-05-28 17:25:43,660][tools.train_tools][INFO] - Loss: 0.09317222784928451
+[2023-05-28 17:25:43,662][tools.train_tools][INFO] - ===== TRAIN (Epoch: 7) =====
+[2023-05-28 17:30:41,745][tools.train_tools][INFO] - Loss: 0.0896146655904557
+[2023-05-28 17:30:41,747][tools.train_tools][INFO] - ===== TRAIN (Epoch: 8) =====
+[2023-05-28 17:35:37,546][tools.train_tools][INFO] - Loss: 0.09323104790278844
+[2023-05-28 17:35:37,547][tools.train_tools][INFO] - ===== Validation (Epoch: 8) =====
+[2023-05-28 17:39:19,855][tools.train_tools][INFO] - Loss: 0.08727165879286754
+[2023-05-28 17:39:19,865][tools.train_tools][INFO] - ===== TRAIN (Epoch: 9) =====
+[2023-05-28 17:44:17,053][tools.train_tools][INFO] - Loss: 0.09599325922444113
+[2023-05-28 17:44:17,055][tools.train_tools][INFO] - ===== TRAIN (Epoch: 10) =====
+[2023-05-28 17:49:13,897][tools.train_tools][INFO] - Loss: 0.09678249701749783
+[2023-05-28 17:49:13,899][tools.train_tools][INFO] - ===== TRAIN (Epoch: 11) =====
+[2023-05-28 17:54:11,390][tools.train_tools][INFO] - Loss: 0.09407898115085112
+[2023-05-28 17:54:11,392][tools.train_tools][INFO] - ===== TRAIN (Epoch: 12) =====
+[2023-05-28 17:59:07,014][tools.train_tools][INFO] - Loss: 0.09015797156752989
+[2023-05-28 17:59:07,015][tools.train_tools][INFO] - ===== Validation (Epoch: 12) =====
+[2023-05-28 18:02:49,219][tools.train_tools][INFO] - Loss: 0.0930836752984576
+[2023-05-28 18:02:49,229][tools.train_tools][INFO] - ===== TRAIN (Epoch: 13) =====
+[2023-05-28 18:07:47,440][tools.train_tools][INFO] - Loss: 0.09262482559891118
+[2023-05-28 18:07:47,442][tools.train_tools][INFO] - ===== TRAIN (Epoch: 14) =====
+[2023-05-28 18:12:43,237][tools.train_tools][INFO] - Loss: 0.09180037881067497
+[2023-05-28 18:12:43,239][tools.train_tools][INFO] - ===== TRAIN (Epoch: 15) =====
+[2023-05-28 18:17:40,420][tools.train_tools][INFO] - Loss: 0.09314136180831338
+[2023-05-28 18:17:40,422][tools.train_tools][INFO] - ===== TRAIN (Epoch: 16) =====
+[2023-05-28 18:22:38,792][tools.train_tools][INFO] - Loss: 0.0947696412618779
+[2023-05-28 18:22:38,793][tools.train_tools][INFO] - ===== Validation (Epoch: 16) =====
+[2023-05-28 18:26:21,444][tools.train_tools][INFO] - Loss: 0.08616797477465567
+[2023-05-28 18:26:21,454][tools.train_tools][INFO] - ===== TRAIN (Epoch: 17) =====
+[2023-05-28 18:31:21,588][tools.train_tools][INFO] - Loss: 0.09092068345122592
+[2023-05-28 18:31:21,590][tools.train_tools][INFO] - ===== TRAIN (Epoch: 18) =====
+[2023-05-28 18:36:21,140][tools.train_tools][INFO] - Loss: 0.09393461811849696
+[2023-05-28 18:36:21,141][tools.train_tools][INFO] - ===== TRAIN (Epoch: 19) =====
+[2023-05-28 18:41:20,553][tools.train_tools][INFO] - Loss: 0.09093015071065258
+[2023-05-28 18:41:20,555][tools.train_tools][INFO] - ===== TRAIN (Epoch: 20) =====
+[2023-05-28 18:46:19,439][tools.train_tools][INFO] - Loss: 0.09030569042626492
+[2023-05-28 18:46:19,439][tools.train_tools][INFO] - ===== Validation (Epoch: 20) =====
+[2023-05-28 18:50:01,421][tools.train_tools][INFO] - Loss: 0.08751915729312906
+[2023-05-28 18:50:01,431][tools.train_tools][INFO] - ===== TRAIN (Epoch: 21) =====
+[2023-05-28 18:55:01,773][tools.train_tools][INFO] - Loss: 0.09264693059579589
+[2023-05-28 18:55:01,775][tools.train_tools][INFO] - ===== TRAIN (Epoch: 22) =====
+[2023-05-28 18:59:57,898][tools.train_tools][INFO] - Loss: 0.09218703989431289
+[2023-05-28 18:59:57,899][tools.train_tools][INFO] - ===== TRAIN (Epoch: 23) =====
+[2023-05-28 19:04:54,618][tools.train_tools][INFO] - Loss: 0.09100449179546742
+[2023-05-28 19:04:54,619][tools.train_tools][INFO] - ===== TRAIN (Epoch: 24) =====
+[2023-05-28 19:09:51,153][tools.train_tools][INFO] - Loss: 0.0914971108967691
+[2023-05-28 19:09:51,154][tools.train_tools][INFO] - ===== Validation (Epoch: 24) =====
+[2023-05-28 19:13:33,275][tools.train_tools][INFO] - Loss: 0.08538593301389025
+[2023-05-28 19:13:33,275][tools.early_stopper][INFO] - Validation metric changed from 0.9863891108903537 to 0.9865591488899729
+[2023-05-28 19:13:33,285][tools.train_tools][INFO] - ===== TRAIN (Epoch: 25) =====
+[2023-05-28 19:18:30,651][tools.train_tools][INFO] - Loss: 0.09144367201499655
+[2023-05-28 19:18:30,653][tools.train_tools][INFO] - ===== TRAIN (Epoch: 26) =====
+[2023-05-28 19:23:29,873][tools.train_tools][INFO] - Loss: 0.09543263421782965
+[2023-05-28 19:23:29,875][tools.train_tools][INFO] - ===== TRAIN (Epoch: 27) =====
+[2023-05-28 19:28:28,771][tools.train_tools][INFO] - Loss: 0.0943846576266112
+[2023-05-28 19:28:28,772][tools.train_tools][INFO] - ===== TRAIN (Epoch: 28) =====
+[2023-05-28 19:33:25,835][tools.train_tools][INFO] - Loss: 0.09276245799838527
+[2023-05-28 19:33:25,836][tools.train_tools][INFO] - ===== Validation (Epoch: 28) =====
+[2023-05-28 19:37:08,215][tools.train_tools][INFO] - Loss: 0.08541233445455292
+[2023-05-28 19:37:08,216][tools.early_stopper][INFO] - Validation metric changed from 0.9865591488899729 to 0.9866633527025507
+[2023-05-28 19:37:08,226][tools.train_tools][INFO] - ===== TRAIN (Epoch: 29) =====
+[2023-05-28 19:42:03,331][tools.train_tools][INFO] - Loss: 0.09774755830682855
+[2023-05-28 19:42:03,332][tools.train_tools][INFO] - ===== TRAIN (Epoch: 30) =====
+[2023-05-28 19:47:00,990][tools.train_tools][INFO] - Loss: 0.09887409774387831
+[2023-05-28 19:47:00,992][tools.train_tools][INFO] - ===== TRAIN (Epoch: 31) =====
+[2023-05-28 19:51:59,490][tools.train_tools][INFO] - Loss: 0.0892436344944493
+[2023-05-28 19:51:59,491][tools.train_tools][INFO] - ===== TRAIN (Epoch: 32) =====
+[2023-05-28 19:56:56,625][tools.train_tools][INFO] - Loss: 0.09172259133383227
+[2023-05-28 19:56:56,625][tools.train_tools][INFO] - ===== Validation (Epoch: 32) =====
+[2023-05-28 20:00:38,749][tools.train_tools][INFO] - Loss: 0.08730513319658516
+[2023-05-28 20:00:38,760][tools.train_tools][INFO] - ===== TRAIN (Epoch: 33) =====
+[2023-05-28 20:05:36,601][tools.train_tools][INFO] - Loss: 0.0925483052293765
+[2023-05-28 20:05:36,603][tools.train_tools][INFO] - ===== TRAIN (Epoch: 34) =====
+[2023-05-28 20:10:33,073][tools.train_tools][INFO] - Loss: 0.09302922321069197
+[2023-05-28 20:10:33,075][tools.train_tools][INFO] - ===== TRAIN (Epoch: 35) =====
+[2023-05-28 20:15:29,266][tools.train_tools][INFO] - Loss: 0.09368953811068755
+[2023-05-28 20:15:29,268][tools.train_tools][INFO] - ===== TRAIN (Epoch: 36) =====
+[2023-05-28 20:20:25,084][tools.train_tools][INFO] - Loss: 0.09244317716664582
+[2023-05-28 20:20:25,085][tools.train_tools][INFO] - ===== Validation (Epoch: 36) =====
+[2023-05-28 20:24:06,885][tools.train_tools][INFO] - Loss: 0.08688283574585223
+[2023-05-28 20:24:06,897][tools.train_tools][INFO] - ===== TRAIN (Epoch: 37) =====
+[2023-05-28 20:29:03,181][tools.train_tools][INFO] - Loss: 0.09231211785664933
+[2023-05-28 20:29:03,183][tools.train_tools][INFO] - ===== TRAIN (Epoch: 38) =====
+[2023-05-28 20:34:00,225][tools.train_tools][INFO] - Loss: 0.09266125497022545
+[2023-05-28 20:34:00,226][tools.train_tools][INFO] - ===== TRAIN (Epoch: 39) =====
+[2023-05-28 20:38:56,864][tools.train_tools][INFO] - Loss: 0.08937847839961431
+[2023-05-28 20:38:56,866][tools.train_tools][INFO] - ===== TRAIN (Epoch: 40) =====
+[2023-05-28 20:43:54,547][tools.train_tools][INFO] - Loss: 0.09255584535167079
+[2023-05-28 20:43:54,547][tools.train_tools][INFO] - ===== Validation (Epoch: 40) =====
+[2023-05-28 20:47:36,663][tools.train_tools][INFO] - Loss: 0.08623790385764699
+[2023-05-28 20:47:36,674][tools.train_tools][INFO] - ===== TRAIN (Epoch: 41) =====
+[2023-05-28 20:52:34,581][tools.train_tools][INFO] - Loss: 0.09078032536529826
+[2023-05-28 20:52:34,583][tools.train_tools][INFO] - ===== TRAIN (Epoch: 42) =====
+[2023-05-28 20:57:32,361][tools.train_tools][INFO] - Loss: 0.09242025098913294
+[2023-05-28 20:57:32,363][tools.train_tools][INFO] - ===== TRAIN (Epoch: 43) =====
+[2023-05-28 21:02:29,052][tools.train_tools][INFO] - Loss: 0.09094759791577488
+[2023-05-28 21:02:29,053][tools.train_tools][INFO] - ===== TRAIN (Epoch: 44) =====
+[2023-05-28 21:07:27,586][tools.train_tools][INFO] - Loss: 0.0930292875982592
+[2023-05-28 21:07:27,586][tools.train_tools][INFO] - ===== Validation (Epoch: 44) =====
+[2023-05-28 21:11:09,656][tools.train_tools][INFO] - Loss: 0.08591954435556923
+[2023-05-28 21:11:09,667][tools.train_tools][INFO] - ===== TRAIN (Epoch: 45) =====
+[2023-05-28 21:16:06,504][tools.train_tools][INFO] - Loss: 0.09684184210789247
+[2023-05-28 21:16:06,506][tools.train_tools][INFO] - ===== TRAIN (Epoch: 46) =====
+[2023-05-28 21:21:03,324][tools.train_tools][INFO] - Loss: 0.09134118976391462
+[2023-05-28 21:21:03,326][tools.train_tools][INFO] - ===== TRAIN (Epoch: 47) =====
+[2023-05-28 21:26:01,012][tools.train_tools][INFO] - Loss: 0.09884213444660628
+[2023-05-28 21:26:01,014][tools.train_tools][INFO] - ===== TRAIN (Epoch: 48) =====
+[2023-05-28 21:30:56,499][tools.train_tools][INFO] - Loss: 0.09394779227754846
+[2023-05-28 21:30:56,499][tools.train_tools][INFO] - ===== Validation (Epoch: 48) =====
+[2023-05-28 21:34:39,077][tools.train_tools][INFO] - Loss: 0.0849722937162247
+[2023-05-28 21:34:39,078][tools.early_stopper][INFO] - Validation metric changed from 0.9866633527025507 to 0.9867285144679987
+[2023-05-28 21:34:39,088][tools.train_tools][INFO] - ===== TRAIN (Epoch: 49) =====
+[2023-05-28 21:39:36,961][tools.train_tools][INFO] - Loss: 0.09158934867026362
+[2023-05-28 21:39:36,962][tools.train_tools][INFO] - ===== TRAIN (Epoch: 50) =====
+[2023-05-28 21:44:32,828][tools.train_tools][INFO] - Loss: 0.09254589318474636
+[2023-05-28 21:44:32,829][tools.train_tools][INFO] - ===== TRAIN (Epoch: 51) =====
+[2023-05-28 21:49:29,304][tools.train_tools][INFO] - Loss: 0.09085386205350081
+[2023-05-28 21:49:29,306][tools.train_tools][INFO] - ===== TRAIN (Epoch: 52) =====
+[2023-05-28 21:54:27,012][tools.train_tools][INFO] - Loss: 0.09308332971096793
+[2023-05-28 21:54:27,013][tools.train_tools][INFO] - ===== Validation (Epoch: 52) =====
+[2023-05-28 21:58:09,803][tools.train_tools][INFO] - Loss: 0.0847301139826243
+[2023-05-28 21:58:09,804][tools.early_stopper][INFO] - Validation metric changed from 0.9867285144679987 to 0.9867428185473398
+[2023-05-28 21:58:09,879][tools.train_tools][INFO] - ===== TRAIN (Epoch: 53) =====
+[2023-05-28 22:03:06,797][tools.train_tools][INFO] - Loss: 0.09150593527752711
+[2023-05-28 22:03:06,799][tools.train_tools][INFO] - ===== TRAIN (Epoch: 54) =====
+[2023-05-28 22:08:04,614][tools.train_tools][INFO] - Loss: 0.0935072109884638
+[2023-05-28 22:08:04,616][tools.train_tools][INFO] - ===== TRAIN (Epoch: 55) =====
+[2023-05-28 22:13:04,392][tools.train_tools][INFO] - Loss: 0.09131035550243169
+[2023-05-28 22:13:04,393][tools.train_tools][INFO] - ===== TRAIN (Epoch: 56) =====
+[2023-05-28 22:18:02,238][tools.train_tools][INFO] - Loss: 0.0929153227461182
+[2023-05-28 22:18:02,238][tools.train_tools][INFO] - ===== Validation (Epoch: 56) =====
+[2023-05-28 22:21:44,828][tools.train_tools][INFO] - Loss: 0.08647202829564074
+[2023-05-28 22:21:44,839][tools.train_tools][INFO] - ===== TRAIN (Epoch: 57) =====
+[2023-05-28 22:26:40,473][tools.train_tools][INFO] - Loss: 0.09381630983722361
+[2023-05-28 22:26:40,474][tools.train_tools][INFO] - ===== TRAIN (Epoch: 58) =====
+[2023-05-28 22:31:36,731][tools.train_tools][INFO] - Loss: 0.09446167516072447
+[2023-05-28 22:31:36,733][tools.train_tools][INFO] - ===== TRAIN (Epoch: 59) =====
+[2023-05-28 22:36:33,187][tools.train_tools][INFO] - Loss: 0.0920389093067935
+[2023-05-28 22:36:33,189][tools.train_tools][INFO] - ===== TRAIN (Epoch: 60) =====
+[2023-05-28 22:41:28,819][tools.train_tools][INFO] - Loss: 0.09118066992523119
+[2023-05-28 22:41:28,820][tools.train_tools][INFO] - ===== Validation (Epoch: 60) =====
+[2023-05-28 22:45:11,149][tools.train_tools][INFO] - Loss: 0.08730158229420922
+[2023-05-28 22:45:11,233][tools.train_tools][INFO] - ===== TRAIN (Epoch: 61) =====
+[2023-05-28 22:50:08,803][tools.train_tools][INFO] - Loss: 0.09645077482094924
+[2023-05-28 22:50:08,805][tools.train_tools][INFO] - ===== TRAIN (Epoch: 62) =====
+[2023-05-28 22:55:08,527][tools.train_tools][INFO] - Loss: 0.10137190401998718
+[2023-05-28 22:55:08,529][tools.train_tools][INFO] - ===== TRAIN (Epoch: 63) =====
+[2023-05-28 23:00:07,327][tools.train_tools][INFO] - Loss: 0.09111162917402187
+[2023-05-28 23:00:07,329][tools.train_tools][INFO] - ===== TRAIN (Epoch: 64) =====
+[2023-05-28 23:05:04,442][tools.train_tools][INFO] - Loss: 0.09348612023049302
+[2023-05-28 23:05:04,443][tools.train_tools][INFO] - ===== Validation (Epoch: 64) =====
+[2023-05-28 23:08:46,598][tools.train_tools][INFO] - Loss: 0.0853074242790241
+[2023-05-28 23:08:46,609][tools.train_tools][INFO] - ===== TRAIN (Epoch: 65) =====
+[2023-05-28 23:13:43,190][tools.train_tools][INFO] - Loss: 0.09031120359991925
+[2023-05-28 23:13:43,192][tools.train_tools][INFO] - ===== TRAIN (Epoch: 66) =====
+[2023-05-28 23:18:40,300][tools.train_tools][INFO] - Loss: 0.10294420390674477
+[2023-05-28 23:18:40,302][tools.train_tools][INFO] - ===== TRAIN (Epoch: 67) =====
+[2023-05-28 23:23:35,733][tools.train_tools][INFO] - Loss: 0.0917049922675541
+[2023-05-28 23:23:35,735][tools.train_tools][INFO] - ===== TRAIN (Epoch: 68) =====
+[2023-05-28 23:28:33,328][tools.train_tools][INFO] - Loss: 0.09747356006953103
+[2023-05-28 23:28:33,328][tools.train_tools][INFO] - ===== Validation (Epoch: 68) =====
+[2023-05-28 23:32:15,497][tools.train_tools][INFO] - Loss: 0.0882668081064557
+[2023-05-28 23:32:15,509][tools.train_tools][INFO] - ===== TRAIN (Epoch: 69) =====
+[2023-05-28 23:37:15,227][tools.train_tools][INFO] - Loss: 0.09456934653909685
+[2023-05-28 23:37:15,229][tools.train_tools][INFO] - ===== TRAIN (Epoch: 70) =====
+[2023-05-28 23:42:13,812][tools.train_tools][INFO] - Loss: 0.09031743254802219
+[2023-05-28 23:42:13,814][tools.train_tools][INFO] - ===== TRAIN (Epoch: 71) =====
+[2023-05-28 23:47:10,586][tools.train_tools][INFO] - Loss: 0.09598505334628857
+[2023-05-28 23:47:10,587][tools.train_tools][INFO] - ===== TRAIN (Epoch: 72) =====
+[2023-05-28 23:52:08,931][tools.train_tools][INFO] - Loss: 0.09328262117534714
+[2023-05-28 23:52:08,932][tools.train_tools][INFO] - ===== Validation (Epoch: 72) =====
+[2023-05-28 23:55:51,223][tools.train_tools][INFO] - Loss: 0.08916429787741721
+[2023-05-28 23:55:51,235][tools.train_tools][INFO] - ===== TRAIN (Epoch: 73) =====
+[2023-05-29 00:00:49,324][tools.train_tools][INFO] - Loss: 0.09164631478892636
+[2023-05-29 00:00:49,326][tools.train_tools][INFO] - ===== TRAIN (Epoch: 74) =====
+[2023-05-29 00:05:45,349][tools.train_tools][INFO] - Loss: 0.09638979294712893
+[2023-05-29 00:05:45,350][tools.train_tools][INFO] - ===== TRAIN (Epoch: 75) =====
+[2023-05-29 00:10:43,951][tools.train_tools][INFO] - Loss: 0.09307563941164539
+[2023-05-29 00:10:43,953][tools.train_tools][INFO] - ===== TRAIN (Epoch: 76) =====
+[2023-05-29 00:15:39,878][tools.train_tools][INFO] - Loss: 0.09194698026757452
+[2023-05-29 00:15:39,879][tools.train_tools][INFO] - ===== Validation (Epoch: 76) =====
+[2023-05-29 00:19:22,071][tools.train_tools][INFO] - Loss: 0.08581933844707162
+[2023-05-29 00:19:22,083][tools.train_tools][INFO] - ===== TRAIN (Epoch: 77) =====
+[2023-05-29 00:24:20,217][tools.train_tools][INFO] - Loss: 0.09553891206816997
+[2023-05-29 00:24:20,219][tools.train_tools][INFO] - ===== TRAIN (Epoch: 78) =====
+[2023-05-29 00:29:20,985][tools.train_tools][INFO] - Loss: 0.09426728063759816
+[2023-05-29 00:29:20,987][tools.train_tools][INFO] - ===== TRAIN (Epoch: 79) =====
+[2023-05-29 00:34:19,177][tools.train_tools][INFO] - Loss: 0.09186098786242725
+[2023-05-29 00:34:19,179][tools.train_tools][INFO] - ===== TRAIN (Epoch: 80) =====
+[2023-05-29 00:39:18,662][tools.train_tools][INFO] - Loss: 0.09457354354680554
+[2023-05-29 00:39:18,663][tools.train_tools][INFO] - ===== Validation (Epoch: 80) =====
+[2023-05-29 00:43:01,935][tools.train_tools][INFO] - Loss: 0.08773335551514345
+[2023-05-29 00:43:01,947][tools.train_tools][INFO] - ===== TRAIN (Epoch: 81) =====
+[2023-05-29 00:47:58,627][tools.train_tools][INFO] - Loss: 0.09399750050339194
+[2023-05-29 00:47:58,628][tools.train_tools][INFO] - ===== TRAIN (Epoch: 82) =====
+[2023-05-29 00:52:58,975][tools.train_tools][INFO] - Loss: 0.0931390630583166
+[2023-05-29 00:52:58,977][tools.train_tools][INFO] - ===== TRAIN (Epoch: 83) =====
+[2023-05-29 00:57:59,206][tools.train_tools][INFO] - Loss: 0.0923410807593067
+[2023-05-29 00:57:59,208][tools.train_tools][INFO] - ===== TRAIN (Epoch: 84) =====
+[2023-05-29 01:02:56,912][tools.train_tools][INFO] - Loss: 0.0923008618111744
+[2023-05-29 01:02:56,912][tools.train_tools][INFO] - ===== Validation (Epoch: 84) =====
+[2023-05-29 01:06:39,254][tools.train_tools][INFO] - Loss: 0.08810008916030504
+[2023-05-29 01:06:39,267][tools.train_tools][INFO] - ===== TRAIN (Epoch: 85) =====
+[2023-05-29 01:11:37,661][tools.train_tools][INFO] - Loss: 0.09876216797808195
+[2023-05-29 01:11:37,663][tools.train_tools][INFO] - ===== TRAIN (Epoch: 86) =====
+[2023-05-29 01:16:36,089][tools.train_tools][INFO] - Loss: 0.09258267397623489
+[2023-05-29 01:16:36,091][tools.train_tools][INFO] - ===== TRAIN (Epoch: 87) =====
+[2023-05-29 01:21:36,122][tools.train_tools][INFO] - Loss: 0.09139025909236714
+[2023-05-29 01:21:36,123][tools.train_tools][INFO] - ===== TRAIN (Epoch: 88) =====
+[2023-05-29 01:26:34,270][tools.train_tools][INFO] - Loss: 0.091691665934099
+[2023-05-29 01:26:34,271][tools.train_tools][INFO] - ===== Validation (Epoch: 88) =====
+[2023-05-29 01:30:18,248][tools.train_tools][INFO] - Loss: 0.08608417915213451
+[2023-05-29 01:30:18,260][tools.train_tools][INFO] - ===== TRAIN (Epoch: 89) =====
+[2023-05-29 01:35:16,346][tools.train_tools][INFO] - Loss: 0.09207404266443325
+[2023-05-29 01:35:16,348][tools.train_tools][INFO] - ===== TRAIN (Epoch: 90) =====
+[2023-05-29 01:40:13,016][tools.train_tools][INFO] - Loss: 0.09205861748356177
+[2023-05-29 01:40:13,017][tools.train_tools][INFO] - ===== TRAIN (Epoch: 91) =====
+[2023-05-29 01:45:10,669][tools.train_tools][INFO] - Loss: 0.09113972630371991
+[2023-05-29 01:45:10,671][tools.train_tools][INFO] - ===== TRAIN (Epoch: 92) =====
+[2023-05-29 01:50:07,120][tools.train_tools][INFO] - Loss: 0.09543394823819669
+[2023-05-29 01:50:07,120][tools.train_tools][INFO] - ===== Validation (Epoch: 92) =====
+[2023-05-29 01:53:49,552][tools.train_tools][INFO] - Loss: 0.0905098935255396
+[2023-05-29 01:53:49,564][tools.train_tools][INFO] - ===== TRAIN (Epoch: 93) =====
+[2023-05-29 01:58:46,807][tools.train_tools][INFO] - Loss: 0.09099107625040395
+[2023-05-29 01:58:46,808][tools.train_tools][INFO] - ===== TRAIN (Epoch: 94) =====
+[2023-05-29 02:03:43,278][tools.train_tools][INFO] - Loss: 0.09302082598532734
+[2023-05-29 02:03:43,280][tools.train_tools][INFO] - ===== TRAIN (Epoch: 95) =====
+[2023-05-29 02:08:40,815][tools.train_tools][INFO] - Loss: 0.09307195896966548
+[2023-05-29 02:08:40,817][tools.train_tools][INFO] - ===== TRAIN (Epoch: 96) =====
+[2023-05-29 02:13:38,945][tools.train_tools][INFO] - Loss: 0.09197694117752381
+[2023-05-29 02:13:38,945][tools.train_tools][INFO] - ===== Validation (Epoch: 96) =====
+[2023-05-29 02:17:22,922][tools.train_tools][INFO] - Loss: 0.08765596500183831
+[2023-05-29 02:17:22,934][tools.train_tools][INFO] - ===== TRAIN (Epoch: 97) =====
+[2023-05-29 02:22:21,839][tools.train_tools][INFO] - Loss: 0.09147229068870462
+[2023-05-29 02:22:21,840][tools.train_tools][INFO] - ===== TRAIN (Epoch: 98) =====
+[2023-05-29 02:27:20,360][tools.train_tools][INFO] - Loss: 0.0926093812492991
+[2023-05-29 02:27:20,361][tools.train_tools][INFO] - ===== TRAIN (Epoch: 99) =====
+[2023-05-29 02:32:20,021][tools.train_tools][INFO] - Loss: 0.09208323652258187
+[2023-05-29 02:32:20,022][tools.train_tools][INFO] - ===== TRAIN (Epoch: 100) =====
+[2023-05-29 02:37:19,383][tools.train_tools][INFO] - Loss: 0.09308300367733345
+[2023-05-29 02:37:19,383][tools.train_tools][INFO] - ===== Validation (Epoch: 100) =====
+[2023-05-29 02:41:01,791][tools.train_tools][INFO] - Loss: 0.08629441684272482
+[2023-05-29 02:41:01,805][tools.train_tools][INFO] - ===== TRAIN (Epoch: 101) =====
+[2023-05-29 02:46:00,476][tools.train_tools][INFO] - Loss: 0.09440870985563905
+[2023-05-29 02:46:00,478][tools.train_tools][INFO] - ===== TRAIN (Epoch: 102) =====
+[2023-05-29 02:50:58,663][tools.train_tools][INFO] - Loss: 0.09640517644247354
+[2023-05-29 02:50:58,665][tools.train_tools][INFO] - ===== TRAIN (Epoch: 103) =====
+[2023-05-29 02:55:56,581][tools.train_tools][INFO] - Loss: 0.09046250733312819
+[2023-05-29 02:55:56,583][tools.train_tools][INFO] - ===== TRAIN (Epoch: 104) =====
+[2023-05-29 03:00:57,210][tools.train_tools][INFO] - Loss: 0.09121486826195208
+[2023-05-29 03:00:57,211][tools.train_tools][INFO] - ===== Validation (Epoch: 104) =====
+[2023-05-29 03:04:39,653][tools.train_tools][INFO] - Loss: 0.0900708462930859
+[2023-05-29 03:04:39,667][tools.train_tools][INFO] - ===== TRAIN (Epoch: 105) =====
+[2023-05-29 03:09:39,149][tools.train_tools][INFO] - Loss: 0.09093104243265031
+[2023-05-29 03:09:39,151][tools.train_tools][INFO] - ===== TRAIN (Epoch: 106) =====
+[2023-05-29 03:14:38,035][tools.train_tools][INFO] - Loss: 0.09181597420295691
+[2023-05-29 03:14:38,036][tools.train_tools][INFO] - ===== TRAIN (Epoch: 107) =====
+[2023-05-29 03:19:38,744][tools.train_tools][INFO] - Loss: 0.09719032241843277
+[2023-05-29 03:19:38,746][tools.train_tools][INFO] - ===== TRAIN (Epoch: 108) =====
+[2023-05-29 03:24:40,473][tools.train_tools][INFO] - Loss: 0.09209314468325154
+[2023-05-29 03:24:40,473][tools.train_tools][INFO] - ===== Validation (Epoch: 108) =====
+[2023-05-29 03:28:22,810][tools.train_tools][INFO] - Loss: 0.08840824000374319
+[2023-05-29 03:28:22,896][tools.train_tools][INFO] - ===== TRAIN (Epoch: 109) =====
+[2023-05-29 03:33:18,982][tools.train_tools][INFO] - Loss: 0.09479280774419283
+[2023-05-29 03:33:18,983][tools.train_tools][INFO] - ===== TRAIN (Epoch: 110) =====
+[2023-05-29 03:38:16,118][tools.train_tools][INFO] - Loss: 0.09187864712279485
+[2023-05-29 03:38:16,120][tools.train_tools][INFO] - ===== TRAIN (Epoch: 111) =====
+[2023-05-29 03:43:13,728][tools.train_tools][INFO] - Loss: 0.09196257302251258
+[2023-05-29 03:43:13,730][tools.train_tools][INFO] - ===== TRAIN (Epoch: 112) =====
+[2023-05-29 03:48:11,013][tools.train_tools][INFO] - Loss: 0.09386128272396423
+[2023-05-29 03:48:11,013][tools.train_tools][INFO] - ===== Validation (Epoch: 112) =====
+[2023-05-29 03:51:53,612][tools.train_tools][INFO] - Loss: 0.08594642551781459
+[2023-05-29 03:51:53,612][tools.early_stopper][INFO] - Early stopping.
