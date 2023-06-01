@@ -1,0 +1,39 @@
+comment: Learning rate is not reduced well, so continue
+device: cuda:0
+model_cfg:
+  name: mini_u2net
+  device: cuda:0
+  load_pretrained: true
+  pretrained_path: ../stage1/outputs/2023-05-27/03-13-37
+  freeze_encoder:
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  freeze_decoder:
+  - false
+  - false
+  - false
+  - false
+  - false
+  freeze_side:
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  out_ch: 1
+test_cfg:
+  batch_size: 1
+  save_path: ${hydra:runtime.output_dir}
+  metrics:
+  - soft_jaccard
+  - soft_dice
+  - inv_soft_jaccard
+  - inv_soft_dice
+dataset_cfg:
+  device: cuda
+  path: ${hydra:runtime.cwd}/../datasets/datasets.json
