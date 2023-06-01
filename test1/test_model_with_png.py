@@ -10,7 +10,7 @@ import logging
 
 # import my tools
 from tools.model_tools import cfg2model
-from tools.test_tools import cfg2test
+from tools.test_tools import cfg2test_with_png
 from tools.dataset_tools import cfg2datasets
 
 import random

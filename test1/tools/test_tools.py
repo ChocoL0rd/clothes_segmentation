@@ -1,3 +1,4 @@
+import numpy as np
 import torch
 from torchvision.transforms import ToPILImage
 from PIL import Image
@@ -121,7 +122,7 @@ def cfg2test_with_png(cfg, model, dataset: MultiImgMaskSet):
             interpolated_mask = torch.nn.functional.interpolate(mask, original_img.shape[-2:])
             
             # saving png files
-            for i, masked_tensor in enumerate(masked):
+            for i in range(img.shape[0]):
                 tmp_dir_path = os.path.join(illustrate_path, dir_name[i])
                 if not os.path.exists(tmp_dir_path):
                     os.mkdir(tmp_dir_path)
