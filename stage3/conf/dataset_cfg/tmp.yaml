@@ -59,6 +59,11 @@ trfm: [
       always_apply: True,
       p: 1
     },
+#    {
+#      name: "normalize",
+#      always_apply: True,
+#      p: 1
+#    }
 ]
 
 
@@ -70,11 +75,11 @@ val_trfm: [
       always_apply: True,
       p: 1
     },
-    {
-      name: "normalize",
-      always_apply: True,
-      p: 1
-    }
+#    {
+#      name: "normalize",
+#      always_apply: True,
+#      p: 1
+#    }
 ]
 
 
@@ -86,11 +91,11 @@ test_trfm: [
       always_apply: True,
       p: 1
     },
-    {
-      name: "normalize",
-      always_apply: True,
-      p: 1
-    }
+#    {
+#      name: "normalize",
+#      always_apply: True,
+#      p: 1
+#    }
 ]
 
 
