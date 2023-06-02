@@ -1,0 +1,19 @@
+name: "unet"
+device: cuda:0
+
+load_pretrained: False
+#pretrained_path: 
+
+encoder_name: "resnet34"
+encoder_weights: "imagenet"
+
+
+
+
+
+
+
+
+
+
+

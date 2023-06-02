@@ -1,3 +1,4 @@
 datasets/full_data
 *.pyc
 */nohup.out
+*/.ipynb_checkpoints
