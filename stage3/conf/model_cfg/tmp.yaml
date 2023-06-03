@@ -4,9 +4,10 @@ device: cuda:0
 load_pretrained: False
 #pretrained_path: 
 
-encoder_name: "resnet34"
+encoder_name: "resnet101"
 encoder_weights: "imagenet"
 
+freeze_encoder: True
 
 
 

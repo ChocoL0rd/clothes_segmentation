@@ -1,7 +1,7 @@
 device: cuda
 
 # path to a file that contains name of imgs for validation and train
-path: ${hydra:runtime.cwd}/../datasets/datasets.json
+path: ${hydra:runtime.cwd}/../datasets/fix1_datasets.json
 
 # how many photos to use from each dir in one epoch
 max_subset_size: 30

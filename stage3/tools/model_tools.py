@@ -35,7 +35,11 @@ def cfg2model(cfg):
     
     if cfg["load_pretrained"]:
         model.load_state_dict(torch.load(os.path.join(cfg["pretrained_path"], "model.pt")))
-
+    
+    if cfg["freeze_encoder"]:
+        for param in model.encoder.parameters():
+            param.requires_grad = False
+    
     return model
 
 

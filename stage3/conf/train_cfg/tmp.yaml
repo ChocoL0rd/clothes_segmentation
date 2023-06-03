@@ -1,4 +1,4 @@
-epochs: 300
+epochs: 150
 val_period: 4
 train_batch_size: 24
 val_batch_size: 24
