@@ -1,14 +1,13 @@
 name: "unet"
 device: cuda:0
 
-load_pretrained: False
-#pretrained_path: 
+load_pretrained: True
+pretrained_path: "2023-06-03/14-30-16" 
 
 encoder_name: "resnet101"
 encoder_weights: "imagenet"
 
 freeze_encoder: True
-
 
 
 
