@@ -1,1 +1,0 @@
-Here experiments with different models and backbones from pytorch segmentation model lobrary.

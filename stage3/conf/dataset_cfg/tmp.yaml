@@ -1,7 +1,7 @@
 device: cuda
 
 # path to a file that contains name of imgs for validation and train
-path: ${hydra:runtime.cwd}/../datasets/fix1_datasets.json
+path: ${hydra:runtime.cwd}/local_datasets/bad_train_2023-06-04_14-43-45.json
 
 # how many photos to use from each dir in one epoch
 max_subset_size: 30
@@ -26,29 +26,29 @@ bgr_trfm: [
 # foreground transformation
 fgr_trfm: [
     {
-    name: rgb_shift,
-    r_shift_limit: 50,
-    g_shift_limit: 50,
-    b_shift_limit: 50,
-    always_apply: False,
-    p: 0.5
+        name: rgb_shift,
+        r_shift_limit: 50,
+        g_shift_limit: 50,
+        b_shift_limit: 50,
+        always_apply: False,
+        p: 0.5
     },
 ]
 
 # transformations applied to the whole image after two previous
 trfm: [
     {
-    name: vertical_flip,
-    p: 0.5
+        name: vertical_flip,
+        p: 0.5
     },
     {
-    name: horizontal_flip,
-    p: 0.5
+        name: horizontal_flip,
+        p: 0.5
     },
     {
-    name: rotate,
-    always_apply: False,
-    p: 0.5
+        name: rotate,
+        always_apply: False,
+        p: 0.5
     },
     {
       name: "random_resized_crop",
