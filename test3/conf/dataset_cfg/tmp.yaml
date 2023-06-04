@@ -1,0 +1,11 @@
+device: cuda
+
+# path to a file that contains name of imgs for validation and train
+path: ${hydra:runtime.cwd}/../datasets/datasets.json
+
+
+
+
+
+
+
