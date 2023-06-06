@@ -1,4 +1,4 @@
-name: "fpn"
+name: "unet"
 device: cuda:0
 
 load_pretrained: False
