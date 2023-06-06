@@ -1,8 +1,8 @@
-name: "unet"
+name: "fpn"
 device: cuda:0
 
-load_pretrained: True
-pretrained_path: "outputs/2023-06-04/04-52-21" 
+load_pretrained: False
+#pretrained_path: "outputs/2023-06-04/04-52-21" 
 
 encoder_name: "resnet101"
 encoder_weights: "imagenet"

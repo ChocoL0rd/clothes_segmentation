@@ -1,4 +1,4 @@
-epochs: 150
+epochs: 300
 val_period: 4
 train_batch_size: 24
 val_batch_size: 24
@@ -31,7 +31,7 @@ metrics: [
 
 optimizer:
     name: "adam"
-    lrs: [0.0001]
+    lrs: [0.001]
     weight_decays: [0]
 
 # changes lrs depending on mean loss (mean of means per batch) of validation
