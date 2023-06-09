@@ -1,0 +1,21 @@
+comment: Learning rate is not reduced well, so continue
+device: cuda:0
+model_cfg:
+  name: unet
+  device: cuda:0
+  load_pretrained: true
+  pretrained_path: ../stage3/outputs/2023-06-06/07-15-23
+  encoder_name: resnet101
+  encoder_weights: imagenet
+  freeze_encoder: true
+test_cfg:
+  batch_size: 1
+  save_path: ${hydra:runtime.output_dir}
+  metrics:
+  - soft_jaccard
+  - soft_dice
+  - inv_soft_jaccard
+  - inv_soft_dice
+dataset_cfg:
+  device: cuda
+  path: ${hydra:runtime.cwd}/../datasets/fix1_datasets.json
