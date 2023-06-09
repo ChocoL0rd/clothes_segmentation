@@ -1,4 +1,6 @@
-name: "unet"
+name: "fpn"
+decoder_merge_policy: "cat"
+
 device: cuda:0
 
 load_pretrained: False
