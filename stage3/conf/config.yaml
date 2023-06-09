@@ -6,7 +6,7 @@ defaults:
   - _self_
   - model_cfg: tmp
   - test_cfg: tmp
-  - dataset_cfg: tmp
+  - dataset_cfg: strong_aug1
   - train_cfg: tmp
 
 

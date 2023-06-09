@@ -1,8 +1,8 @@
 name: "unet"
 device: cuda:0
 
-load_pretrained: True
-pretrained_path: "outputs/2023-06-07/07-52-54" 
+load_pretrained: False
+#pretrained_path: "outputs/2023-06-07/07-52-54" 
 
 encoder_name: "resnet101"
 encoder_weights: "imagenet"
